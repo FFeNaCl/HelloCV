@@ -1,1 +1,12 @@
-# HelloCV
+另外三个实践任务（除了Git）
+https://www.yuque.com/hutieyan/gdxk3r/elaohgfoeokn2c36
+关于外网加速
+https://www.yuque.com/hutieyan/gdxk3r/yoms5bfemki4n56r
+Linux安装
+https://www.yuque.com/hutieyan/gdxk3r/ht2grimqtl8nkuei
+语雀实践
+https://www.yuque.com/hutieyan/gdxk3r/aycdh7oat12caa34
+Linux指令与vim学习
+https://www.yuque.com/hutieyan/gdxk3r/fr6wkfgv326bv2k0
+Github配置与Git学习
+https://www.yuque.com/hutieyan/gdxk3r/vxc8eb68kbfmnrgd
