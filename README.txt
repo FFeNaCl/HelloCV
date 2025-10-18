@@ -3,7 +3,8 @@ https://www.yuque.com/hutieyan/qbuu9c/xgtlsxgh94x09l0q
 Docker相关指令学习
 https://www.yuque.com/hutieyan/qbuu9c/rgk9pddalq7lacpt
 CMake相关
-https://www.yuque.com/hutieyan/qbuu9c/hkg4qmup8tiroh12
+https://www.yuque.com/hutieyan/qbuu9c/am75nlhegkc09re9
 加密工具
+https://www.yuque.com/hutieyan/qbuu9c/hkg4qmup8tiroh12
+OpenCV的学习（不在本周范围，只是预加载）
 https://www.yuque.com/hutieyan/eumiv6/fy2svti70r3fhz3h
-OpenCV的学习（不在本周范围，只是预加载）https://www.yuque.com/hutieyan/eumiv6/fy2svti70r3fhz3h
