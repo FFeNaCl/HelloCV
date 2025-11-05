@@ -1,3 +1,0 @@
-/home/tomori/project/build/CMakeFiles/Demo1.dir
-/home/tomori/project/build/CMakeFiles/edit_cache.dir
-/home/tomori/project/build/CMakeFiles/rebuild_cache.dir
