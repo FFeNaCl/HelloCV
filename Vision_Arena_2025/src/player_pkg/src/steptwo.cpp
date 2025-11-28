@@ -115,7 +115,7 @@ int SteptwoNode::recognizeNumber(const cv::Mat& armor_roi) {
             }
         }
     }
-    return best_id; //这里不要忘了改
+    return best_id; 
 }
 
 // 主回调函数 

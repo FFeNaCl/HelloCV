@@ -64,7 +64,7 @@ services:
         source install/setup.bash &&
         ros2 run player_pkg VisionNode 
       "
-    # 在使用时 ros2 run player_pkg VisionNode 将 VisionNode 换为要启动的节点名字即可
+    # 选手在使用时 ros2 run player_pkg VisionNode 将 VisionNode 换为选手要启动的节点名字即可
     tty: true
     stdin_open: true
     restart: unless-stopped

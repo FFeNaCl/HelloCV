@@ -35,3 +35,28 @@ docker-compose up
 关闭容器
 docker-compose down 
 #备赛期间可以不使用docker-compose方式运行容器，直接运行单个容器，建立网络链接。
+
+
+
+
+# 先停掉所有正在跑的容器（避免误删）
+docker stop $(docker ps -q)
+
+# 彻底清理所有不用的容器、镜像、网络、卷、缓存
+docker system prune -a --volumes --force
+
+# 再清理一次构建缓存（很多大模型镜像 build cache 特别大）
+docker builder prune --all --force
+
+# 查看有多少废旧版本
+snap list --all | wc -l
+
+# 删除所有 disabled 的旧版本（安全！）
+sudo snap list --all | awk '/disabled/ {print $1" "$3}' | 
+    while read snapname revision; do
+        sudo snap remove "$snapname" --revision="$revision"
+    done
+
+sudo apt autoremove --purge
+sudo apt clean
+sudo journalctl --vacuum-time=2weeks

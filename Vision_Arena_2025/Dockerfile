@@ -1,9 +1,9 @@
 FROM vision-vrena-2025:v0.1.2
 
 
-COPY ./install /home/tomori/Vision_Arena_2025/install
-COPY ./src/player_pkg /home/tomori/Vision_Arena_2025/src/player_pkg
-COPY ./results /home/tomori/Vision_Arena_2025/results
+COPY ./install /home/va/Vision-Vrena-2025/install
+COPY ./src/player_pkg /home/va/Vision-Vrena-2025/src/player_pkg
+COPY ./results /home/va/Vision-Vrena-2025/results
 
 
 # 将选手所需程序移入镜像

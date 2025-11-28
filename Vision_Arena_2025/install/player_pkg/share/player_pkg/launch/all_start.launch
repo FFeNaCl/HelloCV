@@ -1,6 +1,0 @@
-<launch>
-    <node pkg="player_pkg" exec="CircleNode" name="CircleNode" output="screen" />
-    <node pkg="player_pkg" exec="ArmorNode" name="ArmorNode" output="screen" />
-    <node pkg="player_pkg" exec="RectangleNode" name="RectangleNode" output="screen" />
-    <node pkg="player_pkg" exec="TestNode" name="TestNode" output="screen" />
-</launch>
