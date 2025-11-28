@@ -87,7 +87,7 @@ int SteptwoNode::recognizeNumber(const cv::Mat& armor_roi) {
     //图像二值化，ostu只是一种方法
     cv::threshold(gray, fin, 0, 255, cv::THRESH_OTSU);
 
-    double match = 0.1;   // 现场调，这个是匹配度阈值match
+    double match = 0.3;   // 现场调，这个是匹配度阈值match
     int best_id = -1;
 
     for (int id = 0; id < number_templates.size(); id++) {//id是第i个模板
@@ -115,7 +115,7 @@ int SteptwoNode::recognizeNumber(const cv::Mat& armor_roi) {
             }
         }
     }
-    return best_id; 
+    return best_id; //这里不要忘了改
 }
 
 // 主回调函数 
@@ -249,7 +249,7 @@ void SteptwoNode::callback_camera(sensor_msgs::msg::Image::SharedPtr msg) {
             // 填充消息
             
             referee_pkg::msg::Object obj;
-            obj.target_type = "armor_red_1";
+            obj.target_type = "armor_red_"+ std::to_string(number);
 
             for (const auto& pt : armor_corners) {
                 geometry_msgs::msg::Point p;

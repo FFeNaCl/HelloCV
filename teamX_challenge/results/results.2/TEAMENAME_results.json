@@ -1,0 +1,14 @@
+{
+    "RaceStage0": {
+        "average_numdetecterror": 0.0,
+        "average_orientationerror": 0.0,
+        "fps": 7,
+        "max_numdetecterror": 0.112,
+        "max_orientationerror": 1.168,
+        "run_id": "44abd9bd-862f-4416-aaa8-e6d87fdf5bc8",
+        "score": 0.0,
+        "target_type": "rect",
+        "timestamp": "2025-11-28T22:09:43Z"
+    },
+    "team_name": "TEAMENAME"
+}

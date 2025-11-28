@@ -241,7 +241,7 @@ void VisionNode::callback_carema(sensor_msgs::msg::Image::SharedPtr msg) {
         // 先发矩形
         if (!rectangle_points.empty()) {
             referee_pkg::msg::Object obj;
-            obj.target_type = "rectangle";
+            obj.target_type = "rect";
             for (const auto& p : rectangle_points) {
                 geometry_msgs::msg::Point pt;
                 pt.x = p.x; pt.y = p.y; pt.z = 0.0;
