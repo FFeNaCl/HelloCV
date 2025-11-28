@@ -1,0 +1,8 @@
+# HitArmor.srv (选手须在比赛阶段五构造对应消息的服务器)
+geometry_msgs/Point[] modelpoint   # 模型的真值点 (左下起始,逆时针方向)
+std_msgs/Header header             # 时间戳
+float64 g                          # 重力加速度
+---
+float64 yaw                        # 欧拉角
+float64 pitch
+float64 roll
