@@ -137,7 +137,7 @@ void SteptwoNode::callback_camera(sensor_msgs::msg::Image::SharedPtr msg) {
           cv::putText(
               result_image, point_text,
               cv::Point(rectangle_points[j].x + 10, rectangle_points[j].y - 10),
-              cv::FONT_HERSHEY_SIMPLEX, 0.6, cv::Scalar(255, 255, 255), 3);//白色描字
+              cv::FONT_HERSHEY_SIMPLEX, 0.6, cv::Scalar(0, 0, 255), 3);//描字
           cv::putText(
               result_image, point_text,
               cv::Point(rectangle_points[j].x + 10, rectangle_points[j].y - 10),

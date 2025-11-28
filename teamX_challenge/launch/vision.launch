@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="player_pkg" exec="VisionNode" name="VisionNode" output="screen" />
+    <node pkg="player_pkg" exec="ShooterNode" name="ShooterNode" output="screen" />
+</launch>
