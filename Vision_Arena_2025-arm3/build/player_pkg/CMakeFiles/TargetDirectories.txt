@@ -1,0 +1,12 @@
+/home/tomori/Vision_Arena_2025-arm3/build/player_pkg/CMakeFiles/uninstall.dir
+/home/tomori/Vision_Arena_2025-arm3/build/player_pkg/CMakeFiles/player_pkg_uninstall.dir
+/home/tomori/Vision_Arena_2025-arm3/build/player_pkg/CMakeFiles/SteptwoNode.dir
+/home/tomori/Vision_Arena_2025-arm3/build/player_pkg/CMakeFiles/TestNode.dir
+/home/tomori/Vision_Arena_2025-arm3/build/player_pkg/CMakeFiles/VisionNode.dir
+/home/tomori/Vision_Arena_2025-arm3/build/player_pkg/CMakeFiles/test.dir
+/home/tomori/Vision_Arena_2025-arm3/build/player_pkg/CMakeFiles/edit_cache.dir
+/home/tomori/Vision_Arena_2025-arm3/build/player_pkg/CMakeFiles/rebuild_cache.dir
+/home/tomori/Vision_Arena_2025-arm3/build/player_pkg/CMakeFiles/list_install_components.dir
+/home/tomori/Vision_Arena_2025-arm3/build/player_pkg/CMakeFiles/install.dir
+/home/tomori/Vision_Arena_2025-arm3/build/player_pkg/CMakeFiles/install/local.dir
+/home/tomori/Vision_Arena_2025-arm3/build/player_pkg/CMakeFiles/install/strip.dir

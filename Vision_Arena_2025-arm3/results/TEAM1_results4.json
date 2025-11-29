@@ -1,0 +1,51 @@
+{
+    "RaceStage3": [
+        {
+            "average_numdetecterror": 0.694,
+            "average_orientationerror": 1.786,
+            "fps": 8,
+            "max_numdetecterror": 1.047,
+            "max_orientationerror": 1.879,
+            "run_id": "e99b6f98-1b54-4a1d-9d36-2b67dc81fe7c",
+            "score": 4.5,
+            "target_type": "armor_red_1",
+            "timestamp": "2025-11-29T15:33:42Z"
+        },
+        {
+            "average_numdetecterror": 0.769,
+            "average_orientationerror": 1.713,
+            "fps": 17,
+            "max_numdetecterror": 0.769,
+            "max_orientationerror": 1.713,
+            "run_id": "47211538-1c3d-4638-92b3-9d5e31d73237",
+            "score": 5.5,
+            "target_type": "armor_red_4",
+            "timestamp": "2025-11-29T15:33:42Z"
+        }
+    ],
+    "RaceStage4": [
+        {
+            "average_numdetecterror": 2.045,
+            "average_orientationerror": 1.725,
+            "fps": 6,
+            "max_numdetecterror": 4.282,
+            "max_orientationerror": 1.879,
+            "run_id": "fb8cf61b-6da9-4968-a65f-4cdfa94c31d7",
+            "score": 1.0,
+            "target_type": "armor_red_1",
+            "timestamp": "2025-11-29T15:33:50Z"
+        },
+        {
+            "average_numdetecterror": 0.769,
+            "average_orientationerror": 1.713,
+            "fps": 8,
+            "max_numdetecterror": 6.547,
+            "max_orientationerror": 3.009,
+            "run_id": "12e81253-3ee9-447d-acd5-acb34f431a6d",
+            "score": 6.0,
+            "target_type": "armor_red_4",
+            "timestamp": "2025-11-29T15:33:50Z"
+        }
+    ],
+    "team_name": "TEAM1"
+}

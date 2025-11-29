@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-86bc3a2356d43285f138.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "player_pkg",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SteptwoNode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SteptwoNode-dec90d04304f2e6be8ab.json",
+					"name" : "SteptwoNode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestNode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestNode-896b69b8867a83bc8094.json",
+					"name" : "TestNode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "VisionNode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-VisionNode-59fa53d5f2a00c163984.json",
+					"name" : "VisionNode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "player_pkg_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-player_pkg_uninstall-1874a16a3edc0fc13cee.json",
+					"name" : "player_pkg_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-4dd8b77e7e7c71572fdd.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/tomori/Vision_Arena_2025-arm3/build/player_pkg",
+		"source" : "/home/tomori/Vision_Arena_2025-arm3/src/player_pkg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
