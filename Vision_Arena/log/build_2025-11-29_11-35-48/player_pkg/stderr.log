@@ -1,0 +1,10 @@
+[01m[K/home/tomori/Vision_Arena/src/player_pkg/src/test.cpp:[m[K In member function ‘[01m[Kvoid TestNode::callback_camera(sensor_msgs::msg::Image_<std::allocator<void> >::SharedPtr)[m[K’:
+[01m[K/home/tomori/Vision_Arena/src/player_pkg/src/test.cpp:155:71:[m[K [01;31m[Kerror: [m[K‘[01m[Kcenter_inner[m[K’ was not declared in this scope
+  155 |       vector<Point2f> inner_ring_points = calculateStableCirclePoints([01;31m[Kcenter_inner[m[K, radius_inner);
+      |                                                                       [01;31m[K^~~~~~~~~~~~[m[K
+[01m[K/home/tomori/Vision_Arena/src/player_pkg/src/test.cpp:155:85:[m[K [01;31m[Kerror: [m[K‘[01m[Kradius_inner[m[K’ was not declared in this scope
+  155 |       vector<Point2f> inner_ring_points = calculateStableCirclePoints(center_inner, [01;31m[Kradius_inner[m[K);
+      |                                                                                     [01;31m[K^~~~~~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/TestNode.dir/build.make:76：CMakeFiles/TestNode.dir/src/test.cpp.o] 错误 1
+gmake[1]: *** [CMakeFiles/Makefile2:137：CMakeFiles/TestNode.dir/all] 错误 2
+gmake: *** [Makefile:146：all] 错误 2
