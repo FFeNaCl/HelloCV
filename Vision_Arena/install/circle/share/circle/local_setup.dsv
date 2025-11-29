@@ -1,0 +1,2 @@
+source;share/circle/environment/ament_prefix_path.sh
+source;share/circle/environment/path.sh
