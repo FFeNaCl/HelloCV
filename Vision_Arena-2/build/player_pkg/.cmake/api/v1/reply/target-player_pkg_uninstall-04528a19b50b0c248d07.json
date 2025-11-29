@@ -98,13 +98,13 @@
 		{
 			"backtrace" : 9,
 			"isGenerated" : true,
-			"path" : "/home/tomori/Vision_Arena/build/player_pkg/CMakeFiles/player_pkg_uninstall",
+			"path" : "/home/tomori/Vision_Arena-2/build/player_pkg/CMakeFiles/player_pkg_uninstall",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "/home/tomori/Vision_Arena/build/player_pkg/CMakeFiles/player_pkg_uninstall.rule",
+			"path" : "/home/tomori/Vision_Arena-2/build/player_pkg/CMakeFiles/player_pkg_uninstall.rule",
 			"sourceGroupIndex" : 1
 		}
 	],

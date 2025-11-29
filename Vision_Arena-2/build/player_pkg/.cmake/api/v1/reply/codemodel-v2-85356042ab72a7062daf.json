@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-cec8aa07b4b97e4e1961.json",
+					"jsonFile" : "directory-.-33c9eb9db78a95e14758.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.12"
@@ -18,8 +18,7 @@
 					[
 						0,
 						1,
-						2,
-						3
+						2
 					]
 				}
 			],
@@ -36,8 +35,7 @@
 					[
 						0,
 						1,
-						2,
-						3
+						2
 					]
 				}
 			],
@@ -45,22 +43,15 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "TestNode::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-TestNode-d384df6eb8a9badb9849.json",
-					"name" : "TestNode",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 0,
 					"id" : "VisionNode::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-VisionNode-e385feb8a838b005e25c.json",
+					"jsonFile" : "target-VisionNode-2bd030b6e7891d4ef162.json",
 					"name" : "VisionNode",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "player_pkg_uninstall::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-player_pkg_uninstall-56e474f5f4654e38448f.json",
+					"jsonFile" : "target-player_pkg_uninstall-04528a19b50b0c248d07.json",
 					"name" : "player_pkg_uninstall",
 					"projectIndex" : 0
 				},
@@ -77,8 +68,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/tomori/Vision_Arena/build/player_pkg",
-		"source" : "/home/tomori/Vision_Arena/src/player_pkg"
+		"build" : "/home/tomori/Vision_Arena-2/build/player_pkg",
+		"source" : "/home/tomori/Vision_Arena-2/src/player_pkg"
 	},
 	"version" : 
 	{

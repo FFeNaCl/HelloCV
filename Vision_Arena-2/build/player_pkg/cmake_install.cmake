@@ -1,8 +1,8 @@
-# Install script for directory: /home/tomori/Vision_Arena/src/player_pkg
+# Install script for directory: /home/tomori/Vision_Arena-2/src/player_pkg
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/tomori/Vision_Arena/install/player_pkg")
+  set(CMAKE_INSTALL_PREFIX "/home/tomori/Vision_Arena-2/install/player_pkg")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -43,38 +43,18 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/player_pkg/TestNode" AND
-     NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/player_pkg/TestNode")
-    file(RPATH_CHECK
-         FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/player_pkg/TestNode"
-         RPATH "")
-  endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/player_pkg" TYPE EXECUTABLE FILES "/home/tomori/Vision_Arena/build/player_pkg/TestNode")
-  if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/player_pkg/TestNode" AND
-     NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/player_pkg/TestNode")
-    file(RPATH_CHANGE
-         FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/player_pkg/TestNode"
-         OLD_RPATH "/opt/ros/humble/lib:/home/tomori/Vision_Arena/install/pose_msg/lib:/home/tomori/Vision_Arena/install/referee_pkg/lib:"
-         NEW_RPATH "")
-    if(CMAKE_INSTALL_DO_STRIP)
-      execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/player_pkg/TestNode")
-    endif()
-  endif()
-endif()
-
-if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/player_pkg/VisionNode" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/player_pkg/VisionNode")
     file(RPATH_CHECK
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/player_pkg/VisionNode"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/player_pkg" TYPE EXECUTABLE FILES "/home/tomori/Vision_Arena/build/player_pkg/VisionNode")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/player_pkg" TYPE EXECUTABLE FILES "/home/tomori/Vision_Arena-2/build/player_pkg/VisionNode")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/player_pkg/VisionNode" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/player_pkg/VisionNode")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/player_pkg/VisionNode"
-         OLD_RPATH "/opt/ros/humble/lib:/home/tomori/Vision_Arena/install/pose_msg/lib:/home/tomori/Vision_Arena/install/referee_pkg/lib:"
+         OLD_RPATH "/opt/ros/humble/lib:/home/tomori/Vision_Arena-2/install/pose_msg/lib:/home/tomori/Vision_Arena-2/install/referee_pkg/lib:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/player_pkg/VisionNode")
@@ -83,11 +63,11 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/package_run_dependencies" TYPE FILE FILES "/home/tomori/Vision_Arena/build/player_pkg/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/player_pkg")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/package_run_dependencies" TYPE FILE FILES "/home/tomori/Vision_Arena-2/build/player_pkg/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/player_pkg")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/parent_prefix_path" TYPE FILE FILES "/home/tomori/Vision_Arena/build/player_pkg/ament_cmake_index/share/ament_index/resource_index/parent_prefix_path/player_pkg")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/parent_prefix_path" TYPE FILE FILES "/home/tomori/Vision_Arena-2/build/player_pkg/ament_cmake_index/share/ament_index/resource_index/parent_prefix_path/player_pkg")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -95,7 +75,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/player_pkg/environment" TYPE FILE FILES "/home/tomori/Vision_Arena/build/player_pkg/ament_cmake_environment_hooks/ament_prefix_path.dsv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/player_pkg/environment" TYPE FILE FILES "/home/tomori/Vision_Arena-2/build/player_pkg/ament_cmake_environment_hooks/ament_prefix_path.dsv")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -103,42 +83,42 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/player_pkg/environment" TYPE FILE FILES "/home/tomori/Vision_Arena/build/player_pkg/ament_cmake_environment_hooks/path.dsv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/player_pkg/environment" TYPE FILE FILES "/home/tomori/Vision_Arena-2/build/player_pkg/ament_cmake_environment_hooks/path.dsv")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/player_pkg" TYPE FILE FILES "/home/tomori/Vision_Arena/build/player_pkg/ament_cmake_environment_hooks/local_setup.bash")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/player_pkg" TYPE FILE FILES "/home/tomori/Vision_Arena-2/build/player_pkg/ament_cmake_environment_hooks/local_setup.bash")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/player_pkg" TYPE FILE FILES "/home/tomori/Vision_Arena/build/player_pkg/ament_cmake_environment_hooks/local_setup.sh")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/player_pkg" TYPE FILE FILES "/home/tomori/Vision_Arena-2/build/player_pkg/ament_cmake_environment_hooks/local_setup.sh")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/player_pkg" TYPE FILE FILES "/home/tomori/Vision_Arena/build/player_pkg/ament_cmake_environment_hooks/local_setup.zsh")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/player_pkg" TYPE FILE FILES "/home/tomori/Vision_Arena-2/build/player_pkg/ament_cmake_environment_hooks/local_setup.zsh")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/player_pkg" TYPE FILE FILES "/home/tomori/Vision_Arena/build/player_pkg/ament_cmake_environment_hooks/local_setup.dsv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/player_pkg" TYPE FILE FILES "/home/tomori/Vision_Arena-2/build/player_pkg/ament_cmake_environment_hooks/local_setup.dsv")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/player_pkg" TYPE FILE FILES "/home/tomori/Vision_Arena/build/player_pkg/ament_cmake_environment_hooks/package.dsv")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/player_pkg" TYPE FILE FILES "/home/tomori/Vision_Arena-2/build/player_pkg/ament_cmake_environment_hooks/package.dsv")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/packages" TYPE FILE FILES "/home/tomori/Vision_Arena/build/player_pkg/ament_cmake_index/share/ament_index/resource_index/packages/player_pkg")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ament_index/resource_index/packages" TYPE FILE FILES "/home/tomori/Vision_Arena-2/build/player_pkg/ament_cmake_index/share/ament_index/resource_index/packages/player_pkg")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/player_pkg/cmake" TYPE FILE FILES
-    "/home/tomori/Vision_Arena/build/player_pkg/ament_cmake_core/player_pkgConfig.cmake"
-    "/home/tomori/Vision_Arena/build/player_pkg/ament_cmake_core/player_pkgConfig-version.cmake"
+    "/home/tomori/Vision_Arena-2/build/player_pkg/ament_cmake_core/player_pkgConfig.cmake"
+    "/home/tomori/Vision_Arena-2/build/player_pkg/ament_cmake_core/player_pkgConfig-version.cmake"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/player_pkg" TYPE FILE FILES "/home/tomori/Vision_Arena/src/player_pkg/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/player_pkg" TYPE FILE FILES "/home/tomori/Vision_Arena-2/src/player_pkg/package.xml")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -149,5 +129,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/tomori/Vision_Arena/build/player_pkg/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/tomori/Vision_Arena-2/build/player_pkg/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

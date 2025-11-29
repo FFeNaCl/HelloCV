@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/tomori/Vision_Arena/src/player_pkg
+CMAKE_SOURCE_DIR = /home/tomori/Vision_Arena-2/src/player_pkg
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/tomori/Vision_Arena/build/player_pkg
+CMAKE_BINARY_DIR = /home/tomori/Vision_Arena-2/build/player_pkg
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -142,9 +142,9 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/tomori/Vision_Arena/build/player_pkg/CMakeFiles /home/tomori/Vision_Arena/build/player_pkg//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/tomori/Vision_Arena-2/build/player_pkg/CMakeFiles /home/tomori/Vision_Arena-2/build/player_pkg//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/tomori/Vision_Arena/build/player_pkg/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/tomori/Vision_Arena-2/build/player_pkg/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -198,19 +198,6 @@ player_pkg_uninstall/fast:
 .PHONY : player_pkg_uninstall/fast
 
 #=============================================================================
-# Target rules for targets named TestNode
-
-# Build rule for target.
-TestNode: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 TestNode
-.PHONY : TestNode
-
-# fast build rule for target.
-TestNode/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestNode.dir/build.make CMakeFiles/TestNode.dir/build
-.PHONY : TestNode/fast
-
-#=============================================================================
 # Target rules for targets named VisionNode
 
 # Build rule for target.
@@ -222,30 +209,6 @@ VisionNode: cmake_check_build_system
 VisionNode/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/VisionNode.dir/build.make CMakeFiles/VisionNode.dir/build
 .PHONY : VisionNode/fast
-
-src/test.o: src/test.cpp.o
-.PHONY : src/test.o
-
-# target to build an object file
-src/test.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestNode.dir/build.make CMakeFiles/TestNode.dir/src/test.cpp.o
-.PHONY : src/test.cpp.o
-
-src/test.i: src/test.cpp.i
-.PHONY : src/test.i
-
-# target to preprocess a source file
-src/test.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestNode.dir/build.make CMakeFiles/TestNode.dir/src/test.cpp.i
-.PHONY : src/test.cpp.i
-
-src/test.s: src/test.cpp.s
-.PHONY : src/test.s
-
-# target to generate assembly for a file
-src/test.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestNode.dir/build.make CMakeFiles/TestNode.dir/src/test.cpp.s
-.PHONY : src/test.cpp.s
 
 src/vision.o: src/vision.cpp.o
 .PHONY : src/vision.o
@@ -286,11 +249,7 @@ help:
 	@echo "... test"
 	@echo "... player_pkg_uninstall"
 	@echo "... uninstall"
-	@echo "... TestNode"
 	@echo "... VisionNode"
-	@echo "... src/test.o"
-	@echo "... src/test.i"
-	@echo "... src/test.s"
 	@echo "... src/vision.o"
 	@echo "... src/vision.i"
 	@echo "... src/vision.s"
