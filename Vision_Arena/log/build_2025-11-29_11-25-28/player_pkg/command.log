@@ -1,4 +1,0 @@
-Invoking command in '/home/tomori/Vision_Arena/build/player_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/tomori/Vision_Arena/build/player_pkg -- -j24 -l24
-Invoked command in '/home/tomori/Vision_Arena/build/player_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/tomori/Vision_Arena/build/player_pkg -- -j24 -l24
-Invoking command in '/home/tomori/Vision_Arena/build/player_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/tomori/Vision_Arena/build/player_pkg
-Invoked command in '/home/tomori/Vision_Arena/build/player_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/tomori/Vision_Arena/build/player_pkg

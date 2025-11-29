@@ -1,0 +1,15 @@
+.vscode/
+.idea/
+src/referee_pkg/
+log/
+ros_gazebo_plugin/
+src/player_pkg/
+src/camera_sim_pkg/
+src/target_model_pkg/urdf
+src/target_model_pkg/models
+src/target_model_pkg/launch
+src/target_model_pkg/include
+src/target_model_pkg/src
+src/target_model_pkg/CMakeLists.txt
+src/target_model_pkg/package.xml
+src/target_model_pkg/README.md
