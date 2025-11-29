@@ -1,0 +1,4764 @@
+ ErrorResults 
+  stamp : 2025-11-29T12:54:51Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.69977 , 8.52957 , 2.79931]
+       - orientation : [-0.221246 , 0.0690808 , -0.230187 , 0.945141]
+  RingCirclePositionError : 0
+  position_error : 6.95702
+  orientation_error : 0.66554
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:51Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.74365 , 8.72046 , 2.8608]
+       - orientation : [-0.206235 , 0.0718038 , -0.234123 , 0.947364]
+  RingCirclePositionError : 0
+  position_error : 6.75183
+  orientation_error : 0.651795
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:51Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.68109 , 8.44731 , 2.77469]
+       - orientation : [-0.210962 , 0.0701883 , -0.230811 , 0.947257]
+  RingCirclePositionError : 0
+  position_error : 7.04481
+  orientation_error : 0.652464
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:51Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.72666 , 8.65893 , 2.84285]
+       - orientation : [-0.207205 , 0.0706935 , -0.230296 , 0.948173]
+  RingCirclePositionError : 0
+  position_error : 6.81791
+  orientation_error : 0.64672
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:51Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.67379 , 8.41449 , 2.76446]
+       - orientation : [-0.193925 , 0.0718008 , -0.229695 , 0.95104]
+  RingCirclePositionError : 0
+  position_error : 7.07993
+  orientation_error : 0.628422
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:51Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.70965 , 8.57378 , 2.8132]
+       - orientation : [-0.189676 , 0.0726557 , -0.230405 , 0.951661]
+  RingCirclePositionError : 0
+  position_error : 6.90966
+  orientation_error : 0.624398
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:51Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.69041 , 8.49011 , 2.788]
+       - orientation : [-0.179428 , 0.0737103 , -0.231278 , 0.953353]
+  RingCirclePositionError : 0
+  position_error : 6.99904
+  orientation_error : 0.613279
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:51Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.6632 , 8.32127 , 2.75616]
+       - orientation : [-0.224894 , 0.0676527 , -0.227267 , 0.94509]
+  RingCirclePositionError : 0
+  position_error : 7.17128
+  orientation_error : 0.665851
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:51Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.67443 , 8.43062 , 2.77116]
+       - orientation : [-0.176863 , 0.0733474 , -0.228793 , 0.95446]
+  RingCirclePositionError : 0
+  position_error : 7.06269
+  orientation_error : 0.605905
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:51Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.67227 , 8.40489 , 2.76047]
+       - orientation : [-0.177153 , 0.0729874 , -0.225327 , 0.955258]
+  RingCirclePositionError : 0
+  position_error : 7.09041
+  orientation_error : 0.600533
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:51Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.6789 , 8.43476 , 2.77048]
+       - orientation : [-0.162186 , 0.075269 , -0.229885 , 0.956652]
+  RingCirclePositionError : 0
+  position_error : 7.05821
+  orientation_error : 0.591032
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.71964 , 8.61366 , 2.82759]
+       - orientation : [-0.149331 , 0.0771622 , -0.232597 , 0.957938]
+  RingCirclePositionError : 0
+  position_error : 6.86615
+  orientation_error : 0.582137
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.69072 , 8.42098 , 2.79674]
+       - orientation : [-0.224849 , 0.068071 , -0.228327 , 0.944815]
+  RingCirclePositionError : 0
+  position_error : 7.0606
+  orientation_error : 0.667531
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.73501 , 8.69034 , 2.85264]
+       - orientation : [-0.147441 , 0.0767552 , -0.227227 , 0.959551]
+  RingCirclePositionError : 0
+  position_error : 6.78404
+  orientation_error : 0.570788
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.71748 , 8.61837 , 2.82972]
+       - orientation : [-0.13161 , 0.0786757 , -0.23241 , 0.960455]
+  RingCirclePositionError : 0
+  position_error : 6.8615
+  orientation_error : 0.564327
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.68931 , 8.49619 , 2.79015]
+       - orientation : [-0.135409 , 0.0777404 , -0.228391 , 0.960967]
+  RingCirclePositionError : 0
+  position_error : 6.99292
+  orientation_error : 0.560637
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.73426 , 8.62296 , 2.87024]
+       - orientation : [-0.221432 , 0.0684656 , -0.228314 , 0.945597]
+  RingCirclePositionError : 0
+  position_error : 6.84139
+  orientation_error : 0.662745
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.70262 , 8.46464 , 2.82178]
+       - orientation : [-0.22103 , 0.0695521 , -0.233641 , 0.944309]
+  RingCirclePositionError : 0
+  position_error : 7.00991
+  orientation_error : 0.670615
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.76485 , 8.7347 , 2.90742]
+       - orientation : [-0.224256 , 0.070375 , -0.23695 , 0.942662]
+  RingCirclePositionError : 0
+  position_error : 6.72
+  orientation_error : 0.680557
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.70603 , 8.56002 , 2.80857]
+       - orientation : [-0.11279 , 0.0800855 , -0.226847 , 0.964057]
+  RingCirclePositionError : 0
+  position_error : 6.9246
+  orientation_error : 0.537854
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.68283 , 8.37982 , 2.79515]
+       - orientation : [-0.20091 , 0.07122 , -0.231443 , 0.949209]
+  RingCirclePositionError : 0
+  position_error : 7.10092
+  orientation_error : 0.640171
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.7502 , 8.68365 , 2.89318]
+       - orientation : [-0.199875 , 0.072058 , -0.233388 , 0.948887]
+  RingCirclePositionError : 0
+  position_error : 6.77473
+  orientation_error : 0.642209
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.69965 , 8.54151 , 2.80544]
+       - orientation : [-0.0960232 , 0.0813956 , -0.223962 , 0.966434]
+  RingCirclePositionError : 0
+  position_error : 6.944
+  orientation_error : 0.519655
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.7676 , 8.8396 , 2.90054]
+       - orientation : [-0.0825519 , 0.083245 , -0.228413 , 0.96648]
+  RingCirclePositionError : 0
+  position_error : 6.62398
+  orientation_error : 0.519301
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.73081 , 8.59711 , 2.86435]
+       - orientation : [-0.195253 , 0.0733929 , -0.238629 , 0.948444]
+  RingCirclePositionError : 0
+  position_error : 6.86795
+  orientation_error : 0.645012
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.78617 , 8.83468 , 2.94116]
+       - orientation : [-0.177724 , 0.0746431 , -0.232667 , 0.953262]
+  RingCirclePositionError : 0
+  position_error : 6.61236
+  orientation_error : 0.613883
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.76889 , 8.82545 , 2.89738]
+       - orientation : [-0.0664199 , 0.0848309 , -0.226431 , 0.96805]
+  RingCirclePositionError : 0
+  position_error : 6.63789
+  orientation_error : 0.506923
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.78192 , 39.9024 , 12.9778]
+       - orientation : [0.500699 , -0.371145 , 0.529167 , -0.57579]
+  RingCirclePositionError : 0
+  position_error : 26.7807
+  orientation_error : 1.91445
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [2.77872 , 13.1035 , 4.33233]
+       - orientation : [-0.166697 , 0.0826513 , -0.250828 , 0.949982]
+  RingCirclePositionError : 0
+  position_error : 2.02269
+  orientation_error : 0.635235
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.91579 , 40.3386 , 13.1595]
+       - orientation : [-0.48915 , 0.293132 , -0.509819 , 0.64412]
+  RingCirclePositionError : 0
+  position_error : 27.2694
+  orientation_error : 1.74185
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [9.5043 , 42.5722 , 13.9181]
+       - orientation : [-0.499065 , 0.214023 , -0.446197 , 0.711362]
+  RingCirclePositionError : 0
+  position_error : 29.6996
+  orientation_error : 1.55872
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [9.68765 , 43.4138 , 14.1885]
+       - orientation : [-0.460888 , 0.21857 , -0.467817 , 0.721773]
+  RingCirclePositionError : 0
+  position_error : 30.6023
+  orientation_error : 1.52887
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [9.08567 , 40.5547 , 13.3078]
+       - orientation : [0.511318 , -0.178448 , 0.406591 , -0.735795]
+  RingCirclePositionError : 0
+  position_error : 27.5517
+  orientation_error : 1.48791
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.99764 , 31.3852 , 10.2872]
+       - orientation : [-0.307901 , 0.110063 , -0.350132 , 0.877776]
+  RingCirclePositionError : 0
+  position_error : 17.6751
+  orientation_error : 0.999192
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.12221 , 27.5168 , 9.12467]
+       - orientation : [0.513592 , -0.131238 , 0.354646 , -0.770211]
+  RingCirclePositionError : 0
+  position_error : 13.5437
+  orientation_error : 1.38325
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [4.25325 , 19.3052 , 6.47208]
+       - orientation : [0.538617 , -0.107536 , 0.325606 , -0.769616]
+  RingCirclePositionError : 0
+  position_error : 4.71935
+  orientation_error : 1.38511
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.8309 , 30.593 , 10.1392]
+       - orientation : [0.506276 , -0.138854 , 0.364892 , -0.768933]
+  RingCirclePositionError : 0
+  position_error : 16.8591
+  orientation_error : 1.38725
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.37338 , 32.9276 , 10.822]
+       - orientation : [-0.283411 , 0.109918 , -0.354273 , 0.884357]
+  RingCirclePositionError : 0
+  position_error : 19.35
+  orientation_error : 0.971365
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [4.32642 , 19.6258 , 6.59338]
+       - orientation : [0.520005 , -0.107338 , 0.327464 , -0.781563]
+  RingCirclePositionError : 0
+  position_error : 5.06911
+  orientation_error : 1.34726
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.79397 , 17.4115 , 5.81271]
+       - orientation : [-0.278078 , 0.0794211 , -0.268037 , 0.918978]
+  RingCirclePositionError : 0
+  position_error : 2.66579
+  orientation_error : 0.810629
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.93809 , 17.9564 , 6.03021]
+       - orientation : [0.561645 , -0.121608 , 0.339233 , -0.744773]
+  RingCirclePositionError : 0
+  position_error : 3.26831
+  orientation_error : 1.4612
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.55652 , 16.3836 , 5.47892]
+       - orientation : [-0.277868 , 0.0796168 , -0.27015 , 0.918406]
+  RingCirclePositionError : 0
+  position_error : 1.56632
+  orientation_error : 0.813528
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [4.07485 , 18.5802 , 6.27263]
+       - orientation : [-0.464336 , 0.0931234 , -0.312748 , 0.823352]
+  RingCirclePositionError : 0
+  position_error : 3.94872
+  orientation_error : 1.20701
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.43345 , 15.9002 , 5.32788]
+       - orientation : [-0.256369 , 0.081194 , -0.272756 , 0.923735]
+  RingCirclePositionError : 0
+  position_error : 1.05154
+  orientation_error : 0.786151
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.9576 , 18.0738 , 6.08908]
+       - orientation : [0.532861 , -0.12085 , 0.343148 , -0.764005]
+  RingCirclePositionError : 0
+  position_error : 3.39871
+  orientation_error : 1.4026
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.48014 , 16.1167 , 5.40334]
+       - orientation : [-0.241145 , 0.0828288 , -0.275701 , 0.92681]
+  RingCirclePositionError : 0
+  position_error : 1.28074
+  orientation_error : 0.769936
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.4893 , 16.1268 , 5.41744]
+       - orientation : [-0.234293 , 0.0810072 , -0.266041 , 0.93154]
+  RingCirclePositionError : 0
+  position_error : 1.2974
+  orientation_error : 0.744343
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.71031 , 16.9947 , 5.76456]
+       - orientation : [-0.383719 , 0.0766928 , -0.282445 , 0.875844]
+  RingCirclePositionError : 0
+  position_error : 2.25116
+  orientation_error : 1.00723
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.53212 , 16.3425 , 5.48639]
+       - orientation : [-0.221883 , 0.083086 , -0.271838 , 0.932721]
+  RingCirclePositionError : 0
+  position_error : 1.52385
+  orientation_error : 0.737819
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:52Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.53803 , 16.3429 , 5.49818]
+       - orientation : [-0.222392 , 0.0818616 , -0.266289 , 0.934308]
+  RingCirclePositionError : 0
+  position_error : 1.53006
+  orientation_error : 0.728969
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.57743 , 16.5384 , 5.56554]
+       - orientation : [-0.22176 , 0.0833111 , -0.273281 , 0.932309]
+  RingCirclePositionError : 0
+  position_error : 1.73779
+  orientation_error : 0.740104
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.58435 , 16.5674 , 5.57142]
+       - orientation : [-0.204741 , 0.0848291 , -0.275606 , 0.935375]
+  RingCirclePositionError : 0
+  position_error : 1.76772
+  orientation_error : 0.722956
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.53637 , 16.3654 , 5.51474]
+       - orientation : [-0.195522 , 0.0837804 , -0.268045 , 0.939629]
+  RingCirclePositionError : 0
+  position_error : 1.55468
+  orientation_error : 0.698501
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.532 , 16.342 , 5.5157]
+       - orientation : [-0.221825 , 0.0828764 , -0.272518 , 0.932555]
+  RingCirclePositionError : 0
+  position_error : 1.53293
+  orientation_error : 0.738739
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.61313 , 16.7383 , 5.6555]
+       - orientation : [-0.22133 , 0.0838832 , -0.2779 , 0.930993]
+  RingCirclePositionError : 0
+  position_error : 1.95635
+  orientation_error : 0.747345
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.66074 , 16.9784 , 5.72392]
+       - orientation : [-0.183281 , 0.086203 , -0.279673 , 0.938488]
+  RingCirclePositionError : 0
+  position_error : 2.2079
+  orientation_error : 0.705141
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.44519 , 16.0276 , 5.41743]
+       - orientation : [-0.174305 , 0.0846303 , -0.26878 , 0.943511]
+  RingCirclePositionError : 0
+  position_error : 1.19512
+  orientation_error : 0.67545
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.47436 , 16.1743 , 5.468]
+       - orientation : [-0.173795 , 0.0853912 , -0.274263 , 0.941957]
+  RingCirclePositionError : 0
+  position_error : 1.35016
+  orientation_error : 0.684766
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.71868 , 17.2335 , 5.81443]
+       - orientation : [-0.156096 , 0.0876575 , -0.281159 , 0.942815]
+  RingCirclePositionError : 0
+  position_error : 2.4836
+  orientation_error : 0.679639
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.42834 , 15.962 , 5.4308]
+       - orientation : [-0.221642 , 0.0821675 , -0.274119 , 0.932192]
+  RingCirclePositionError : 0
+  position_error : 1.13777
+  orientation_error : 0.740748
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.65138 , 16.9116 , 5.79652]
+       - orientation : [-0.312217 , 0.0807435 , -0.287673 , 0.901801]
+  RingCirclePositionError : 0
+  position_error : 2.17097
+  orientation_error : 0.893753
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.55309 , 16.5366 , 5.65134]
+       - orientation : [-0.222079 , 0.0808142 , -0.269224 , 0.933632]
+  RingCirclePositionError : 0
+  position_error : 1.75817
+  orientation_error : 0.732751
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.58994 , 16.6667 , 5.72209]
+       - orientation : [-0.292244 , 0.0808723 , -0.286097 , 0.908956]
+  RingCirclePositionError : 0
+  position_error : 1.90981
+  orientation_error : 0.860045
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [5.99406 , 27.1544 , 9.27782]
+       - orientation : [-0.356296 , 0.107293 , -0.347055 , 0.860868]
+  RingCirclePositionError : 0
+  position_error : 13.2285
+  orientation_error : 1.06765
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.19682 , 32.4102 , 10.9411]
+       - orientation : [-0.0952144 , 0.09644 , -0.375193 , 0.916986]
+  RingCirclePositionError : 0
+  position_error : 18.8687
+  orientation_error : 0.820674
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.40587 , 28.9616 , 9.90822]
+       - orientation : [-0.354869 , 0.112323 , -0.357951 , 0.856343]
+  RingCirclePositionError : 0
+  position_error : 15.1861
+  orientation_error : 1.0853
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.05222 , 36.1866 , 12.3304]
+       - orientation : [-0.348426 , 0.133157 , -0.401047 , 0.836678]
+  RingCirclePositionError : 0
+  position_error : 22.9811
+  orientation_error : 1.15921
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.0787 , 32.0022 , 10.9141]
+       - orientation : [-0.26747 , 0.109669 , -0.368991 , 0.883333]
+  RingCirclePositionError : 0
+  position_error : 18.4577
+  orientation_error : 0.97574
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.69008 , 39.1525 , 13.299]
+       - orientation : [-0.202479 , 0.121198 , -0.444126 , 0.86433]
+  RingCirclePositionError : 0
+  position_error : 26.1647
+  orientation_error : 1.05396
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.24682 , 28.2113 , 9.67185]
+       - orientation : [-0.401265 , 0.118877 , -0.362779 , 0.832614]
+  RingCirclePositionError : 0
+  position_error : 14.3842
+  orientation_error : 1.17397
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.75759 , 30.6704 , 10.5101]
+       - orientation : [-0.267985 , 0.1078 , -0.365011 , 0.885059]
+  RingCirclePositionError : 0
+  position_error : 17.0306
+  orientation_error : 0.96835
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.75811 , 35.1386 , 11.9803]
+       - orientation : [-0.20712 , 0.113395 , -0.409369 , 0.881283]
+  RingCirclePositionError : 0
+  position_error : 21.8387
+  orientation_error : 0.984453
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.36365 , 37.7397 , 12.8582]
+       - orientation : [-0.0458942 , 0.0908928 , -0.39774 , 0.911831]
+  RingCirclePositionError : 0
+  position_error : 24.6499
+  orientation_error : 0.84615
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.14766 , 36.7738 , 12.5147]
+       - orientation : [0.00824746 , 0.082573 , -0.413051 , 0.906919]
+  RingCirclePositionError : 0
+  position_error : 23.6023
+  orientation_error : 0.869767
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [9.27407 , 41.6877 , 14.2428]
+       - orientation : [0.00648694 , 0.0850325 , -0.392772 , 0.915673]
+  RingCirclePositionError : 0
+  position_error : 28.9314
+  orientation_error : 0.827233
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.79135 , 35.356 , 12.0944]
+       - orientation : [-0.143292 , 0.103492 , -0.407118 , 0.896109]
+  RingCirclePositionError : 0
+  position_error : 22.0829
+  orientation_error : 0.919745
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.11411 , 36.7722 , 12.5639]
+       - orientation : [0.00679834 , 0.0839205 , -0.397072 , 0.913917]
+  RingCirclePositionError : 0
+  position_error : 23.6092
+  orientation_error : 0.835927
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.64884 , 34.7349 , 11.8836]
+       - orientation : [0.0042897 , 0.086586 , -0.368529 , 0.925565]
+  RingCirclePositionError : 0
+  position_error : 21.4118
+  orientation_error : 0.77654
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.12945 , 37.0329 , 12.7663]
+       - orientation : [-0.207249 , 0.11233 , -0.409352 , 0.881397]
+  RingCirclePositionError : 0
+  position_error : 23.9181
+  orientation_error : 0.983968
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.07839 , 36.7607 , 12.5766]
+       - orientation : [0.00808179 , 0.0818015 , -0.413571 , 0.906753]
+  RingCirclePositionError : 0
+  position_error : 23.5949
+  orientation_error : 0.870553
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.07827 , 36.7601 , 12.6096]
+       - orientation : [0.00803521 , 0.0817383 , -0.413863 , 0.906626]
+  RingCirclePositionError : 0
+  position_error : 23.605
+  orientation_error : 0.871155
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.04109 , 32.2261 , 11.0691]
+       - orientation : [-0.0373384 , 0.0887476 , -0.390271 , 0.915652]
+  RingCirclePositionError : 0
+  position_error : 18.7057
+  orientation_error : 0.827341
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:53Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [9.00622 , 40.8906 , 14.052]
+       - orientation : [0.620526 , -0.204184 , 0.401008 , -0.642221]
+  RingCirclePositionError : 0
+  position_error : 28.0774
+  orientation_error : 1.74681
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.2214 , 37.6044 , 13.0066]
+       - orientation : [-0.188187 , 0.113179 , -0.429879 , 0.875774]
+  RingCirclePositionError : 0
+  position_error : 24.5423
+  orientation_error : 1.00752
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.04474 , 36.7585 , 12.6587]
+       - orientation : [0.00660201 , 0.0830784 , -0.397914 , 0.913629]
+  RingCirclePositionError : 0
+  position_error : 23.6123
+  orientation_error : 0.837345
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.07363 , 37.0697 , 12.8165]
+       - orientation : [-0.175089 , 0.115613 , -0.456869 , 0.864435]
+  RingCirclePositionError : 0
+  position_error : 23.9565
+  orientation_error : 1.05354
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.80816 , 35.9202 , 12.4371]
+       - orientation : [-0.166969 , 0.109743 , -0.434731 , 0.878116]
+  RingCirclePositionError : 0
+  position_error : 22.7175
+  orientation_error : 0.997774
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.52892 , 39.0512 , 13.5009]
+       - orientation : [0.00634912 , 0.0830333 , -0.396309 , 0.914333]
+  RingCirclePositionError : 0
+  position_error : 26.1016
+  orientation_error : 0.833879
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.52461 , 39.0314 , 13.4765]
+       - orientation : [0.01045 , 0.0770512 , -0.448923 , 0.890181]
+  RingCirclePositionError : 0
+  position_error : 26.0745
+  orientation_error : 0.946109
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.0027 , 36.8625 , 12.788]
+       - orientation : [-0.15234 , 0.107311 , -0.437837 , 0.879532]
+  RingCirclePositionError : 0
+  position_error : 23.7413
+  orientation_error : 0.991838
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.48963 , 39.0325 , 13.4945]
+       - orientation : [0.00908117 , 0.0788683 , -0.431189 , 0.898762]
+  RingCirclePositionError : 0
+  position_error : 26.074
+  orientation_error : 0.907716
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.97439 , 36.7401 , 12.7353]
+       - orientation : [0.00774543 , 0.080522 , -0.414932 , 0.906249]
+  RingCirclePositionError : 0
+  position_error : 23.6053
+  orientation_error : 0.872941
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.43425 , 38.8708 , 13.5507]
+       - orientation : [-0.141923 , 0.103143 , -0.422393 , 0.889272]
+  RingCirclePositionError : 0
+  position_error : 25.9318
+  orientation_error : 0.950093
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [9.81186 , 44.9912 , 15.619]
+       - orientation : [0.549673 , -0.228878 , 0.446148 , -0.668152]
+  RingCirclePositionError : 0
+  position_error : 32.5367
+  orientation_error : 1.67815
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.44935 , 39.0091 , 13.5217]
+       - orientation : [0.0115109 , 0.0740015 , -0.467378 , 0.880879]
+  RingCirclePositionError : 0
+  position_error : 26.0529
+  orientation_error : 0.986159
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.05029 , 37.3606 , 13.0158]
+       - orientation : [-0.104448 , 0.0982278 , -0.44539 , 0.883781]
+  RingCirclePositionError : 0
+  position_error : 24.2848
+  orientation_error : 0.973826
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.99459 , 41.613 , 14.499]
+       - orientation : [0.0102495 , 0.0759071 , -0.450965 , 0.889249]
+  RingCirclePositionError : 0
+  position_error : 28.8863
+  orientation_error : 0.950191
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.90531 , 36.7272 , 12.7972]
+       - orientation : [0.00758565 , 0.0797549 , -0.415449 , 0.906081]
+  RingCirclePositionError : 0
+  position_error : 23.5994
+  orientation_error : 0.873735
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.41746 , 39.0246 , 13.615]
+       - orientation : [0.00749765 , 0.0799963 , -0.414575 , 0.906461]
+  RingCirclePositionError : 0
+  position_error : 26.0911
+  orientation_error : 0.871938
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [9.78418 , 45.2557 , 15.7867]
+       - orientation : [0.521447 , -0.217543 , 0.449699 , -0.691765]
+  RingCirclePositionError : 0
+  position_error : 32.8296
+  orientation_error : 1.61373
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.37606 , 38.9957 , 13.5874]
+       - orientation : [0.0113124 , 0.0732761 , -0.467817 , 0.88071]
+  RingCirclePositionError : 0
+  position_error : 26.0469
+  orientation_error : 0.986875
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.36884 , 39.0186 , 13.6365]
+       - orientation : [-0.0479598 , 0.0867001 , -0.45533 , 0.884792]
+  RingCirclePositionError : 0
+  position_error : 26.0827
+  orientation_error : 0.969497
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.3428 , 39.0048 , 13.661]
+       - orientation : [0.00869047 , 0.0772946 , -0.432456 , 0.898294]
+  RingCirclePositionError : 0
+  position_error : 26.0728
+  orientation_error : 0.909851
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.91641 , 41.5987 , 14.5691]
+       - orientation : [0.0100643 , 0.0751683 , -0.451429 , 0.889079]
+  RingCirclePositionError : 0
+  position_error : 28.8801
+  orientation_error : 0.950936
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.87923 , 41.6004 , 14.5885]
+       - orientation : [0.008646 , 0.077106 , -0.43257 , 0.898256]
+  RingCirclePositionError : 0
+  position_error : 28.8805
+  orientation_error : 0.910024
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.87923 , 41.6004 , 14.5885]
+       - orientation : [0.008646 , 0.077106 , -0.43257 , 0.898256]
+  RingCirclePositionError : 0
+  position_error : 28.8805
+  orientation_error : 0.910024
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.99906 , 37.4076 , 13.0428]
+       - orientation : [-0.481936 , 0.202531 , -0.453022 , 0.722143]
+  RingCirclePositionError : 0
+  position_error : 24.3265
+  orientation_error : 1.5278
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.83845 , 41.5851 , 14.6019]
+       - orientation : [0.00992809 , 0.0744967 , -0.451624 , 0.889038]
+  RingCirclePositionError : 0
+  position_error : 28.8627
+  orientation_error : 0.951115
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [5.66911 , 27.1355 , 9.52951]
+       - orientation : [0.00174288 , 0.0837188 , -0.349357 , 0.93324]
+  RingCirclePositionError : 0
+  position_error : 13.2254
+  orientation_error : 0.734934
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.83625 , 41.5747 , 14.617]
+       - orientation : [0.0111704 , 0.0719802 , -0.471044 , 0.879097]
+  RingCirclePositionError : 0
+  position_error : 28.8577
+  orientation_error : 0.993665
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.73304 , 36.6962 , 12.9188]
+       - orientation : [0.00723848 , 0.077904 , -0.416452 , 0.905785]
+  RingCirclePositionError : 0
+  position_error : 23.5761
+  orientation_error : 0.875136
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [5.16981 , 24.9616 , 8.78888]
+       - orientation : [0.000384161 , 0.0842017 , -0.334849 , 0.938502]
+  RingCirclePositionError : 0
+  position_error : 10.8765
+  orientation_error : 0.70506
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.6976 , 36.6851 , 12.8984]
+       - orientation : [0.00844981 , 0.0757917 , -0.432736 , 0.898289]
+  RingCirclePositionError : 0
+  position_error : 23.552
+  orientation_error : 0.909872
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.85877 , 32.829 , 11.5727]
+       - orientation : [0.00616441 , 0.0785783 , -0.403716 , 0.911483]
+  RingCirclePositionError : 0
+  position_error : 19.3897
+  orientation_error : 0.847844
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.17933 , 29.7056 , 10.472]
+       - orientation : [0.00427126 , 0.0805365 , -0.380434 , 0.921285]
+  RingCirclePositionError : 0
+  position_error : 16.0096
+  orientation_error : 0.79885
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.34658 , 39.8933 , 14.0588]
+       - orientation : [0.624752 , -0.200857 , 0.402428 , -0.638273]
+  RingCirclePositionError : 0
+  position_error : 27.0245
+  orientation_error : 1.75709
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.11444 , 38.2884 , 13.4533]
+       - orientation : [-0.43685 , 0.166126 , -0.431928 , 0.771364]
+  RingCirclePositionError : 0
+  position_error : 25.2976
+  orientation_error : 1.37963
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.97918 , 37.8021 , 13.2656]
+       - orientation : [-0.426152 , 0.185952 , -0.461094 , 0.755783]
+  RingCirclePositionError : 0
+  position_error : 24.7598
+  orientation_error : 1.42789
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:54Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.47287 , 31.1841 , 11.0212]
+       - orientation : [0.00511169 , 0.079254 , -0.391725 , 0.916648]
+  RingCirclePositionError : 0
+  position_error : 17.6137
+  orientation_error : 0.822367
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.12356 , 38.9663 , 13.7881]
+       - orientation : [0.00827844 , 0.0751662 , -0.433375 , 0.898036]
+  RingCirclePositionError : 0
+  position_error : 26.0359
+  orientation_error : 0.911025
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.19007 , 34.6389 , 12.2418]
+       - orientation : [0.00712763 , 0.0765932 , -0.417698 , 0.905324]
+  RingCirclePositionError : 0
+  position_error : 21.3468
+  orientation_error : 0.877309
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.84201 , 37.2471 , 13.113]
+       - orientation : [-0.401371 , 0.159641 , -0.43777 , 0.788526]
+  RingCirclePositionError : 0
+  position_error : 24.1702
+  orientation_error : 1.32478
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.3166 , 39.635 , 13.9728]
+       - orientation : [-0.399748 , 0.164034 , -0.445261 , 0.784243]
+  RingCirclePositionError : 0
+  position_error : 26.7518
+  orientation_error : 1.33864
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.76657 , 32.8129 , 11.6262]
+       - orientation : [0.00599351 , 0.0774802 , -0.404223 , 0.911353]
+  RingCirclePositionError : 0
+  position_error : 19.3751
+  orientation_error : 0.848473
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.15761 , 34.6332 , 12.271]
+       - orientation : [0.00705137 , 0.0762127 , -0.417955 , 0.905238]
+  RingCirclePositionError : 0
+  position_error : 21.3451
+  orientation_error : 0.877715
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.24921 , 35.0395 , 12.3683]
+       - orientation : [0.605638 , -0.150244 , 0.369046 , -0.688792]
+  RingCirclePositionError : 0
+  position_error : 21.7699
+  orientation_error : 1.62195
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.51356 , 36.5254 , 12.8983]
+       - orientation : [0.585064 , -0.180991 , 0.40084 , -0.681373]
+  RingCirclePositionError : 0
+  position_error : 23.3688
+  orientation_error : 1.64232
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.73662 , 32.8113 , 11.6404]
+       - orientation : [0.00481506 , 0.0785445 , -0.389951 , 0.917467]
+  RingCirclePositionError : 0
+  position_error : 19.3726
+  orientation_error : 0.818261
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.5958 , 36.9057 , 13.061]
+       - orientation : [0.57138 , -0.15949 , 0.386368 , -0.706263]
+  RingCirclePositionError : 0
+  position_error : 23.7899
+  orientation_error : 1.57318
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.55612 , 36.2349 , 12.7884]
+       - orientation : [-0.345424 , 0.136599 , -0.423578 , 0.826199]
+  RingCirclePositionError : 0
+  position_error : 23.0724
+  orientation_error : 1.19694
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.70521 , 32.8024 , 11.6521]
+       - orientation : [0.00589493 , 0.0767681 , -0.404463 , 0.911308]
+  RingCirclePositionError : 0
+  position_error : 19.3625
+  orientation_error : 0.848694
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.7059 , 32.8058 , 11.6681]
+       - orientation : [0.00475093 , 0.0781551 , -0.390228 , 0.917383]
+  RingCirclePositionError : 0
+  position_error : 19.3712
+  orientation_error : 0.818684
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.18902 , 39.5279 , 13.9682]
+       - orientation : [-0.341443 , 0.147038 , -0.445875 , 0.814243]
+  RingCirclePositionError : 0
+  position_error : 26.6265
+  orientation_error : 1.23874
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.28644 , 35.7701 , 12.6496]
+       - orientation : [0.554766 , -0.171269 , 0.402133 , -0.707948]
+  RingCirclePositionError : 0
+  position_error : 22.5452
+  orientation_error : 1.56841
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.67459 , 32.7975 , 11.6504]
+       - orientation : [0.00586666 , 0.0764407 , -0.404436 , 0.911347]
+  RingCirclePositionError : 0
+  position_error : 19.3515
+  orientation_error : 0.848501
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.67527 , 32.8008 , 11.6663]
+       - orientation : [0.00472769 , 0.0778215 , -0.390203 , 0.917422]
+  RingCirclePositionError : 0
+  position_error : 19.3602
+  orientation_error : 0.818488
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.66164 , 37.7008 , 13.3454]
+       - orientation : [0.538759 , -0.163942 , 0.400136 , -0.723017]
+  RingCirclePositionError : 0
+  position_error : 24.6314
+  orientation_error : 1.52527
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.10419 , 35.0573 , 12.3923]
+       - orientation : [0.539811 , -0.160269 , 0.396153 , -0.725246]
+  RingCirclePositionError : 0
+  position_error : 21.7666
+  orientation_error : 1.51881
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.64391 , 32.7921 , 11.6781]
+       - orientation : [0.00579727 , 0.0760563 , -0.404703 , 0.911261]
+  RingCirclePositionError : 0
+  position_error : 19.3503
+  orientation_error : 0.848919
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.64458 , 32.7954 , 11.694]
+       - orientation : [0.00466423 , 0.0774325 , -0.39048 , 0.917337]
+  RingCirclePositionError : 0
+  position_error : 19.359
+  orientation_error : 0.818912
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.04855 , 34.9703 , 12.3835]
+       - orientation : [0.524729 , -0.158874 , 0.399542 , -0.7347]
+  RingCirclePositionError : 0
+  position_error : 21.6731
+  orientation_error : 1.49114
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.61332 , 32.7872 , 11.6763]
+       - orientation : [0.00576924 , 0.0757289 , -0.404676 , 0.911301]
+  RingCirclePositionError : 0
+  position_error : 19.3394
+  orientation_error : 0.848728
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.61398 , 32.7905 , 11.6922]
+       - orientation : [0.00464122 , 0.0770987 , -0.390455 , 0.917376]
+  RingCirclePositionError : 0
+  position_error : 19.3481
+  orientation_error : 0.818718
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.84978 , 34.129 , 12.0722]
+       - orientation : [-0.483699 , 0.146631 , -0.397503 , 0.76585]
+  RingCirclePositionError : 0
+  position_error : 20.7547
+  orientation_error : 1.39687
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.5834 , 32.7856 , 11.6905]
+       - orientation : [0.00461824 , 0.0767649 , -0.390431 , 0.917414]
+  RingCirclePositionError : 0
+  position_error : 19.3372
+  orientation_error : 0.818525
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.5834 , 32.7856 , 11.6905]
+       - orientation : [0.00461824 , 0.0767649 , -0.390431 , 0.917414]
+  RingCirclePositionError : 0
+  position_error : 19.3372
+  orientation_error : 0.818525
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.52861 , 37.8197 , 13.4151]
+       - orientation : [-0.480052 , 0.159463 , -0.4146 , 0.756458]
+  RingCirclePositionError : 0
+  position_error : 24.7398
+  orientation_error : 1.42583
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.23988 , 31.1449 , 11.0917]
+       - orientation : [0.00479599 , 0.0764229 , -0.392427 , 0.91659]
+  RingCirclePositionError : 0
+  position_error : 17.5575
+  orientation_error : 0.822658
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.91286 , 39.9686 , 14.1917]
+       - orientation : [-0.473359 , 0.180669 , -0.441011 , 0.74081]
+  RingCirclePositionError : 0
+  position_error : 27.0565
+  orientation_error : 1.47304
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.55283 , 32.7806 , 11.6887]
+       - orientation : [0.00459529 , 0.0764309 , -0.390407 , 0.917453]
+  RingCirclePositionError : 0
+  position_error : 19.3265
+  orientation_error : 0.818333
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.23804 , 36.0388 , 12.7848]
+       - orientation : [-0.20596 , 0.108036 , -0.425314 , 0.874653]
+  RingCirclePositionError : 0
+  position_error : 22.8297
+  orientation_error : 1.01216
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.87749 , 39.9722 , 14.193]
+       - orientation : [-0.473471 , 0.180389 , -0.440933 , 0.740852]
+  RingCirclePositionError : 0
+  position_error : 27.0539
+  orientation_error : 1.47292
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.52227 , 32.7758 , 11.687]
+       - orientation : [0.00457237 , 0.0760968 , -0.390383 , 0.917491]
+  RingCirclePositionError : 0
+  position_error : 19.3158
+  orientation_error : 0.818141
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.52227 , 32.7758 , 11.687]
+       - orientation : [0.00457237 , 0.0760968 , -0.390383 , 0.917491]
+  RingCirclePositionError : 0
+  position_error : 19.3158
+  orientation_error : 0.818141
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:55Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.03572 , 35.2884 , 12.4903]
+       - orientation : [-0.183001 , 0.108471 , -0.448027 , 0.868341]
+  RingCirclePositionError : 0
+  position_error : 22.0003
+  orientation_error : 1.0379
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.61444 , 38.8682 , 13.8046]
+       - orientation : [-0.47387 , 0.179254 , -0.439946 , 0.74146]
+  RingCirclePositionError : 0
+  position_error : 25.8555
+  orientation_error : 1.47111
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.49173 , 32.7709 , 11.6852]
+       - orientation : [0.00454948 , 0.0757625 , -0.390359 , 0.917529]
+  RingCirclePositionError : 0
+  position_error : 19.3052
+  orientation_error : 0.817951
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.46057 , 32.7628 , 11.6676]
+       - orientation : [0.00562952 , 0.0740896 , -0.404545 , 0.911495]
+  RingCirclePositionError : 0
+  position_error : 19.2861
+  orientation_error : 0.847785
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.26179 , 36.7444 , 13.0145]
+       - orientation : [-0.176453 , 0.107635 , -0.453644 , 0.866883]
+  RingCirclePositionError : 0
+  position_error : 23.5629
+  orientation_error : 1.04376
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.4612 , 32.766 , 11.6835]
+       - orientation : [0.00452662 , 0.0754281 , -0.390335 , 0.917567]
+  RingCirclePositionError : 0
+  position_error : 19.2946
+  orientation_error : 0.817761
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.568 , 33.7462 , 11.9223]
+       - orientation : [-0.387483 , 0.13082 , -0.405738 , 0.817386]
+  RingCirclePositionError : 0
+  position_error : 20.2995
+  orientation_error : 1.22788
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.77109 , 34.5747 , 12.297]
+       - orientation : [0.00548706 , 0.0737785 , -0.402746 , 0.912317]
+  RingCirclePositionError : 0
+  position_error : 21.2282
+  orientation_error : 0.843777
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.43131 , 32.7644 , 11.6681]
+       - orientation : [0.00341898 , 0.0764044 , -0.375929 , 0.923487]
+  RingCirclePositionError : 0
+  position_error : 19.2824
+  orientation_error : 0.787447
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.67993 , 34.0493 , 12.0349]
+       - orientation : [-0.141901 , 0.0963065 , -0.42872 , 0.887011]
+  RingCirclePositionError : 0
+  position_error : 20.6375
+  orientation_error : 0.95993
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.71979 , 34.8235 , 12.2982]
+       - orientation : [-0.34807 , 0.126701 , -0.412708 , 0.832145]
+  RingCirclePositionError : 0
+  position_error : 21.4492
+  orientation_error : 1.17566
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.1173 , 36.5953 , 13.0154]
+       - orientation : [0.00648101 , 0.0718753 , -0.417083 , 0.905999]
+  RingCirclePositionError : 0
+  position_error : 23.3999
+  orientation_error : 0.874126
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.7389 , 34.5697 , 12.2952]
+       - orientation : [0.0054597 , 0.0734491 , -0.40272 , 0.912355]
+  RingCirclePositionError : 0
+  position_error : 21.2173
+  orientation_error : 0.843592
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.14236 , 31.9241 , 11.2441]
+       - orientation : [-0.327693 , 0.116251 , -0.39845 , 0.848729]
+  RingCirclePositionError : 0
+  position_error : 18.3109
+  orientation_error : 1.11444
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.70681 , 34.5651 , 12.2624]
+       - orientation : [0.00547172 , 0.073174 , -0.402399 , 0.912519]
+  RingCirclePositionError : 0
+  position_error : 21.1961
+  orientation_error : 0.842792
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.70681 , 34.5651 , 12.2624]
+       - orientation : [0.00547172 , 0.073174 , -0.402399 , 0.912519]
+  RingCirclePositionError : 0
+  position_error : 21.1961
+  orientation_error : 0.842792
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.49016 , 33.4215 , 11.8197]
+       - orientation : [-0.0871123 , 0.0852191 , -0.4053 , 0.906025]
+  RingCirclePositionError : 0
+  position_error : 19.951
+  orientation_error : 0.874002
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.67393 , 34.5563 , 12.2438]
+       - orientation : [0.00655858 , 0.071385 , -0.417525 , 0.905833]
+  RingCirclePositionError : 0
+  position_error : 21.1759
+  orientation_error : 0.874908
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.67465 , 34.5601 , 12.2606]
+       - orientation : [0.00544423 , 0.0728441 , -0.402374 , 0.912556]
+  RingCirclePositionError : 0
+  position_error : 21.1853
+  orientation_error : 0.842608
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.67465 , 34.5601 , 12.2606]
+       - orientation : [0.00544423 , 0.0728441 , -0.402374 , 0.912556]
+  RingCirclePositionError : 0
+  position_error : 21.1853
+  orientation_error : 0.842608
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.00807 , 31.109 , 11.0227]
+       - orientation : [0.00468364 , 0.0738589 , -0.391633 , 0.91714]
+  RingCirclePositionError : 0
+  position_error : 17.4592
+  orientation_error : 0.819902
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.41401 , 17.1105 , 6.00603]
+       - orientation : [-0.115727 , 0.0818313 , -0.290594 , 0.946291]
+  RingCirclePositionError : 0
+  position_error : 2.37441
+  orientation_error : 0.658465
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.39418 , 17.0245 , 5.97456]
+       - orientation : [-0.112233 , 0.0818369 , -0.289852 , 0.946938]
+  RingCirclePositionError : 0
+  position_error : 2.28116
+  orientation_error : 0.654446
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.32665 , 16.7109 , 5.86574]
+       - orientation : [-0.112411 , 0.0815575 , -0.287768 , 0.947577]
+  RingCirclePositionError : 0
+  position_error : 1.94509
+  orientation_error : 0.650462
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.51341 , 17.6933 , 6.2163]
+       - orientation : [-0.0839965 , 0.0826529 , -0.299121 , 0.946911]
+  RingCirclePositionError : 0
+  position_error : 2.99945
+  orientation_error : 0.65462
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.16085 , 16.1505 , 5.60473]
+       - orientation : [-0.276108 , 0.0727868 , -0.283704 , 0.915412]
+  RingCirclePositionError : 0
+  position_error : 1.30965
+  orientation_error : 0.828534
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.16234 , 16.138 , 5.60499]
+       - orientation : [-0.271459 , 0.0709648 , -0.276814 , 0.919048]
+  RingCirclePositionError : 0
+  position_error : 1.29904
+  orientation_error : 0.810278
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.4338 , 17.331 , 6.0824]
+       - orientation : [-0.0821186 , 0.0822705 , -0.29037 , 0.949828]
+  RingCirclePositionError : 0
+  position_error : 2.60644
+  orientation_error : 0.636221
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.37988 , 17.0992 , 6.00074]
+       - orientation : [-0.0664112 , 0.0825352 , -0.293844 , 0.949965]
+  RingCirclePositionError : 0
+  position_error : 2.35637
+  orientation_error : 0.635345
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.78694 , 19.2929 , 6.78586]
+       - orientation : [-0.0374019 , 0.0821019 , -0.307351 , 0.94731]
+  RingCirclePositionError : 0
+  position_error : 4.7157
+  orientation_error : 0.652133
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.1469 , 16.1627 , 5.60915]
+       - orientation : [-0.245646 , 0.0727541 , -0.279146 , 0.925442]
+  RingCirclePositionError : 0
+  position_error : 1.32083
+  orientation_error : 0.777194
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.14557 , 16.1505 , 5.60462]
+       - orientation : [-0.238517 , 0.072551 , -0.276608 , 0.928081]
+  RingCirclePositionError : 0
+  position_error : 1.30784
+  orientation_error : 0.763141
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.43464 , 17.4573 , 6.12569]
+       - orientation : [-0.0513113 , 0.0825082 , -0.288141 , 0.952646]
+  RingCirclePositionError : 0
+  position_error : 2.73764
+  orientation_error : 0.617948
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:56Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.10121 , 15.9533 , 5.52586]
+       - orientation : [-0.220512 , 0.0744866 , -0.28051 , 0.931204]
+  RingCirclePositionError : 0
+  position_error : 1.09345
+  orientation_error : 0.746189
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.2733 , 16.9334 , 5.86665]
+       - orientation : [-0.219992 , 0.0754423 , -0.286597 , 0.929394]
+  RingCirclePositionError : 0
+  position_error : 2.13628
+  orientation_error : 0.756055
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.46328 , 17.7668 , 6.23411]
+       - orientation : [-0.0371795 , 0.0822747 , -0.281668 , 0.955255]
+  RingCirclePositionError : 0
+  position_error : 3.06478
+  orientation_error : 0.600553
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.51517 , 18.0341 , 6.32687]
+       - orientation : [-0.0200699 , 0.0824209 , -0.289113 , 0.953529]
+  RingCirclePositionError : 0
+  position_error : 3.35136
+  orientation_error : 0.612114
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.18955 , 16.5152 , 5.72352]
+       - orientation : [-0.200054 , 0.0745402 , -0.278061 , 0.936538]
+  RingCirclePositionError : 0
+  position_error : 1.68976
+  orientation_error : 0.716349
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.07236 , 15.9017 , 5.50307]
+       - orientation : [-0.190504 , 0.0749743 , -0.276941 , 0.938824]
+  RingCirclePositionError : 0
+  position_error : 1.03504
+  orientation_error : 0.703193
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.41348 , 17.5533 , 6.15018]
+       - orientation : [-0.0204457 , 0.0827561 , -0.278323 , 0.956697]
+  RingCirclePositionError : 0
+  position_error : 2.83072
+  orientation_error : 0.59072
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.09202 , 16.0527 , 5.55515]
+       - orientation : [-0.176954 , 0.0751758 , -0.275094 , 0.941997]
+  RingCirclePositionError : 0
+  position_error : 1.19362
+  orientation_error : 0.684528
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.53947 , 18.3293 , 6.41308]
+       - orientation : [-0.00408466 , 0.082466 , -0.281606 , 0.955971]
+  RingCirclePositionError : 0
+  position_error : 3.65675
+  orientation_error : 0.59569
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.20787 , 16.7584 , 5.79784]
+       - orientation : [-0.155785 , 0.0762526 , -0.278069 , 0.944772]
+  RingCirclePositionError : 0
+  position_error : 1.94207
+  orientation_error : 0.667796
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.20636 , 16.7584 , 5.79331]
+       - orientation : [-0.155786 , 0.0762402 , -0.277961 , 0.944805]
+  RingCirclePositionError : 0
+  position_error : 1.94007
+  orientation_error : 0.667597
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.15591 , 31.9115 , 11.1564]
+       - orientation : [-0.388712 , 0.562665 , -0.48365 , 0.546254]
+  RingCirclePositionError : 0
+  position_error : 18.2718
+  orientation_error : 1.98582
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.07765 , 16.0619 , 5.55236]
+       - orientation : [-0.14001 , 0.076167 , -0.269225 , 0.949797]
+  RingCirclePositionError : 0
+  position_error : 1.19952
+  orientation_error : 0.636422
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.07955 , 16.0677 , 5.55285]
+       - orientation : [-0.130897 , 0.0766493 , -0.268352 , 0.951303]
+  RingCirclePositionError : 0
+  position_error : 1.20501
+  orientation_error : 0.62672
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.60251 , 18.876 , 6.57022]
+       - orientation : [-0.00366821 , 0.081383 , -0.284365 , 0.955249]
+  RingCirclePositionError : 0
+  position_error : 4.22519
+  orientation_error : 0.600594
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.54164 , 34.3823 , 12.021]
+       - orientation : [-0.375892 , 0.545553 , -0.505426 , 0.552831]
+  RingCirclePositionError : 0
+  position_error : 20.9168
+  orientation_error : 1.97008
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.4883 , 18.3211 , 6.35251]
+       - orientation : [-0.00323735 , 0.0809891 , -0.288049 , 0.954179]
+  RingCirclePositionError : 0
+  position_error : 3.61903
+  orientation_error : 0.607782
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.48853 , 18.3224 , 6.36917]
+       - orientation : [-0.00463194 , 0.0819243 , -0.273016 , 0.958504]
+  RingCirclePositionError : 0
+  position_error : 3.62647
+  orientation_error : 0.57818
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.38751 , 35.2632 , 12.2222]
+       - orientation : [-0.0889657 , 0.0801959 , -0.382941 , 0.915975]
+  RingCirclePositionError : 0
+  position_error : 21.7769
+  orientation_error : 0.825732
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.8943 , 20.7476 , 7.19311]
+       - orientation : [-0.00329828 , 0.0799228 , -0.286942 , 0.954602]
+  RingCirclePositionError : 0
+  position_error : 6.21647
+  orientation_error : 0.604948
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [5.9756 , 32.6979 , 11.3198]
+       - orientation : [0.00354932 , 0.0718111 , -0.372199 , 0.925364]
+  RingCirclePositionError : 0
+  position_error : 19.0265
+  orientation_error : 0.777604
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.50387 , 41.0991 , 14.3008]
+       - orientation : [0.51523 , -0.194154 , 0.439386 , -0.709776]
+  RingCirclePositionError : 0
+  position_error : 28.0705
+  orientation_error : 1.56323
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.25899 , 34.504 , 11.9137]
+       - orientation : [0.0044135 , 0.0703721 , -0.383738 , 0.920746]
+  RingCirclePositionError : 0
+  position_error : 20.9481
+  orientation_error : 0.801616
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.61056 , 36.5328 , 12.6468]
+       - orientation : [0.00301606 , 0.0716454 , -0.365461 , 0.92806]
+  RingCirclePositionError : 0
+  position_error : 23.1338
+  orientation_error : 0.763251
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.78322 , 17.8348 , 5.73094]
+       - orientation : [-0.307503 , 0.0571356 , -0.204343 , 0.927589]
+  RingCirclePositionError : 0
+  position_error : 3.03052
+  orientation_error : 0.765779
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.4099 , 35.5418 , 12.2426]
+       - orientation : [-0.0531949 , 0.076383 , -0.401187 , 0.911255]
+  RingCirclePositionError : 0
+  position_error : 22.0465
+  orientation_error : 0.848952
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [5.29735 , 29.1916 , 10.0605]
+       - orientation : [-0.041981 , 0.0760017 , -0.341685 , 0.935795]
+  RingCirclePositionError : 0
+  position_error : 15.241
+  orientation_error : 0.720576
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [4.52849 , 21.261 , 6.83106]
+       - orientation : [-0.294446 , 0.0614738 , -0.210406 , 0.930189]
+  RingCirclePositionError : 0
+  position_error : 6.69993
+  orientation_error : 0.751738
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.20979 , 17.1839 , 5.89156]
+       - orientation : [-0.185289 , 0.075434 , -0.289467 , 0.936048]
+  RingCirclePositionError : 0
+  position_error : 2.36815
+  orientation_error : 0.719139
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.74288 , 8.69479 , 2.90304]
+       - orientation : [-0.241755 , 0.0668413 , -0.233883 , 0.939354]
+  RingCirclePositionError : 0
+  position_error : 6.76264
+  orientation_error : 0.700109
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.71651 , 8.56073 , 2.85684]
+       - orientation : [-0.231342 , 0.0680046 , -0.233464 , 0.941993]
+  RingCirclePositionError : 0
+  position_error : 6.90685
+  orientation_error : 0.684553
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.6999 , 8.46482 , 2.82303]
+       - orientation : [-0.228044 , 0.067994 , -0.230941 , 0.943419]
+  RingCirclePositionError : 0
+  position_error : 7.00985
+  orientation_error : 0.676006
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.68645 , 8.38363 , 2.79551]
+       - orientation : [-0.217758 , 0.0697496 , -0.232862 , 0.945247]
+  RingCirclePositionError : 0
+  position_error : 7.09658
+  orientation_error : 0.664893
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.71297 , 8.54378 , 2.84935]
+       - orientation : [-0.214265 , 0.0694451 , -0.230825 , 0.946566]
+  RingCirclePositionError : 0
+  position_error : 6.92564
+  orientation_error : 0.656759
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.7106 , 8.51039 , 2.83681]
+       - orientation : [-0.203884 , 0.0712875 , -0.232988 , 0.948191]
+  RingCirclePositionError : 0
+  position_error : 6.9611
+  orientation_error : 0.646607
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.72509 , 8.61297 , 2.87536]
+       - orientation : [-0.199797 , 0.0714656 , -0.233625 , 0.948891]
+  RingCirclePositionError : 0
+  position_error : 6.85081
+  orientation_error : 0.642189
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.70667 , 8.50472 , 2.83777]
+       - orientation : [-0.201034 , 0.0708111 , -0.229751 , 0.949624]
+  RingCirclePositionError : 0
+  position_error : 6.96682
+  orientation_error : 0.637525
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.69261 , 8.42325 , 2.80881]
+       - orientation : [-0.189531 , 0.0729083 , -0.233503 , 0.950915]
+  RingCirclePositionError : 0
+  position_error : 7.05438
+  orientation_error : 0.629235
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:57Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.70305 , 8.51551 , 2.83896]
+       - orientation : [-0.187142 , 0.071584 , -0.226227 , 0.953244]
+  RingCirclePositionError : 0
+  position_error : 6.95707
+  orientation_error : 0.614001
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.68999 , 8.43025 , 2.81272]
+       - orientation : [-0.176835 , 0.0736474 , -0.230909 , 0.953932]
+  RingCirclePositionError : 0
+  position_error : 7.04712
+  orientation_error : 0.609432
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.69868 , 8.48033 , 2.83035]
+       - orientation : [-0.172323 , 0.0738939 , -0.229796 , 0.955007]
+  RingCirclePositionError : 0
+  position_error : 6.99335
+  orientation_error : 0.602227
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.66935 , 8.37112 , 2.76124]
+       - orientation : [-0.225016 , 0.0673477 , -0.225493 , 0.945508]
+  RingCirclePositionError : 0
+  position_error : 7.12212
+  orientation_error : 0.663292
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.69471 , 8.55465 , 2.81365]
+       - orientation : [-0.252245 , 0.0661032 , -0.234908 , 0.936387]
+  RingCirclePositionError : 0
+  position_error : 6.93011
+  orientation_error : 0.717211
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.71539 , 8.54824 , 2.8519]
+       - orientation : [-0.144972 , 0.0772166 , -0.231702 , 0.95882]
+  RingCirclePositionError : 0
+  position_error : 6.92025
+  orientation_error : 0.57596
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.72434 , 8.62732 , 2.88243]
+       - orientation : [-0.139557 , 0.0773937 , -0.232024 , 0.959531]
+  RingCirclePositionError : 0
+  position_error : 6.83539
+  orientation_error : 0.570931
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.68208 , 8.47667 , 2.78732]
+       - orientation : [-0.228144 , 0.0675213 , -0.228834 , 0.943942]
+  RingCirclePositionError : 0
+  position_error : 7.01332
+  orientation_error : 0.672844
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.73338 , 8.68485 , 2.89888]
+       - orientation : [-0.130191 , 0.077826 , -0.227171 , 0.96197]
+  RingCirclePositionError : 0
+  position_error : 6.77496
+  orientation_error : 0.55334
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.71839 , 8.59195 , 2.86838]
+       - orientation : [-0.122332 , 0.0789998 , -0.229439 , 0.962368]
+  RingCirclePositionError : 0
+  position_error : 6.87383
+  orientation_error : 0.550423
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.71074 , 8.53381 , 2.84815]
+       - orientation : [-0.112632 , 0.0803305 , -0.23169 , 0.962902]
+  RingCirclePositionError : 0
+  position_error : 6.93573
+  orientation_error : 0.546476
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.69159 , 8.53436 , 2.80851]
+       - orientation : [-0.204185 , 0.0698379 , -0.227389 , 0.949592]
+  RingCirclePositionError : 0
+  position_error : 6.95119
+  orientation_error : 0.637728
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.67469 , 8.42974 , 2.7742]
+       - orientation : [-0.204149 , 0.0701733 , -0.228143 , 0.949394]
+  RingCirclePositionError : 0
+  position_error : 7.06251
+  orientation_error : 0.638988
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.72864 , 8.67067 , 2.89565]
+       - orientation : [-0.0907033 , 0.0818377 , -0.230259 , 0.965431]
+  RingCirclePositionError : 0
+  position_error : 6.79007
+  orientation_error : 0.527412
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.73217 , 8.7558 , 2.88537]
+       - orientation : [-0.185492 , 0.0715784 , -0.226613 , 0.953476]
+  RingCirclePositionError : 0
+  position_error : 6.71335
+  orientation_error : 0.612468
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [1.69263 , 8.52707 , 2.80443]
+       - orientation : [-0.179507 , 0.0731669 , -0.229996 , 0.953691]
+  RingCirclePositionError : 0
+  position_error : 6.95906
+  orientation_error : 0.611041
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.07858 , 14.8971 , 4.90161]
+       - orientation : [-0.127849 , 0.0787411 , -0.191554 , 0.969929]
+  RingCirclePositionError : 0
+  position_error : 0.162636
+  orientation_error : 0.491718
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.32909 , 41.5464 , 13.9417]
+       - orientation : [0.532502 , -0.193295 , 0.428419 , -0.703943]
+  RingCirclePositionError : 0
+  position_error : 28.3444
+  orientation_error : 1.57972
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [2.0548 , 10.6874 , 3.53085]
+       - orientation : [-0.178033 , 0.0721244 , -0.241031 , 0.951318]
+  RingCirclePositionError : 0
+  position_error : 4.65299
+  orientation_error : 0.626622
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.59787 , 16.6813 , 5.4585]
+       - orientation : [-0.115913 , 0.0848093 , -0.194009 , 0.970429]
+  RingCirclePositionError : 0
+  position_error : 1.84244
+  orientation_error : 0.487591
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.69 , 20.4373 , 6.8206]
+       - orientation : [-0.261286 , 0.0771649 , -0.305009 , 0.912549]
+  RingCirclePositionError : 0
+  position_error : 5.77536
+  orientation_error : 0.842647
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [5.14486 , 25.0031 , 8.23744]
+       - orientation : [-0.10423 , 0.0823782 , -0.206735 , 0.969335]
+  RingCirclePositionError : 0
+  position_error : 10.7305
+  orientation_error : 0.496572
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [4.32013 , 24.2349 , 8.09733]
+       - orientation : [-0.257651 , 0.0779585 , -0.310898 , 0.911527]
+  RingCirclePositionError : 0
+  position_error : 9.8295
+  orientation_error : 0.847629
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.08268 , 40.3999 , 13.544]
+       - orientation : [-0.418971 , 0.140574 , -0.410288 , 0.797725]
+  RingCirclePositionError : 0
+  position_error : 27.1076
+  orientation_error : 1.29457
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.7528 , 44.0129 , 14.7245]
+       - orientation : [0.505759 , -0.223003 , 0.465161 , -0.69145]
+  RingCirclePositionError : 0
+  position_error : 30.9662
+  orientation_error : 1.6146
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.12806 , 40.347 , 13.4942]
+       - orientation : [-0.451954 , 0.192151 , -0.460949 , 0.739149]
+  RingCirclePositionError : 0
+  position_error : 27.0493
+  orientation_error : 1.47798
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.37014 , 36.2789 , 12.1326]
+       - orientation : [-0.354486 , 0.108221 , -0.374683 , 0.849847]
+  RingCirclePositionError : 0
+  position_error : 22.6941
+  orientation_error : 1.1102
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.59389 , 37.4225 , 12.4404]
+       - orientation : [0.50853 , -0.17129 , 0.414769 , -0.734863]
+  RingCirclePositionError : 0
+  position_error : 23.8965
+  orientation_error : 1.49066
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.52207 , 19.6735 , 6.42074]
+       - orientation : [-0.487573 , 0.0713001 , -0.289031 , 0.820762]
+  RingCirclePositionError : 0
+  position_error : 4.91254
+  orientation_error : 1.21611
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [4.6375 , 26.3923 , 8.71677]
+       - orientation : [0.623115 , -0.11312 , 0.325794 , -0.70199]
+  RingCirclePositionError : 0
+  position_error : 12.0946
+  orientation_error : 1.58522
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.31377 , 18.267 , 6.00906]
+       - orientation : [-0.291394 , 0.0686095 , -0.275358 , 0.913543]
+  RingCirclePositionError : 0
+  position_error : 3.43369
+  orientation_error : 0.837771
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.38629 , 18.8015 , 6.12463]
+       - orientation : [0.547224 , -0.100033 , 0.32108 , -0.766451]
+  RingCirclePositionError : 0
+  position_error : 3.98311
+  orientation_error : 1.395
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.05849 , 16.7616 , 5.48764]
+       - orientation : [-0.277945 , 0.0659547 , -0.262391 , 0.921709]
+  RingCirclePositionError : 0
+  position_error : 1.82877
+  orientation_error : 0.796666
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.06192 , 16.7756 , 5.49699]
+       - orientation : [-0.264182 , 0.0689251 , -0.269843 , 0.923386]
+  RingCirclePositionError : 0
+  position_error : 1.84486
+  orientation_error : 0.787974
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.22065 , 17.7823 , 5.75272]
+       - orientation : [-0.463281 , 0.0800548 , -0.300252 , 0.829946]
+  RingCirclePositionError : 0
+  position_error : 2.89079
+  orientation_error : 1.18357
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [2.98642 , 16.2629 , 5.3161]
+       - orientation : [-0.251943 , 0.07068 , -0.271763 , 0.926107]
+  RingCirclePositionError : 0
+  position_error : 1.30189
+  orientation_error : 0.773674
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.51974 , 19.4049 , 6.4232]
+       - orientation : [0.011802 , 0.0602086 , -0.4895 , 0.869842]
+  RingCirclePositionError : 0
+  position_error : 4.6582
+  orientation_error : 1.03183
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.03065 , 16.4891 , 5.39119]
+       - orientation : [-0.24007 , 0.0736556 , -0.281043 , 0.926259]
+  RingCirclePositionError : 0
+  position_error : 1.53992
+  orientation_error : 0.772866
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:58Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.02141 , 16.4982 , 5.3762]
+       - orientation : [-0.235358 , 0.0697406 , -0.264673 , 0.932572]
+  RingCirclePositionError : 0
+  position_error : 1.54486
+  orientation_error : 0.738645
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.06767 , 16.729 , 5.45606]
+       - orientation : [-0.221102 , 0.0719666 , -0.270849 , 0.934117]
+  RingCirclePositionError : 0
+  position_error : 1.78937
+  orientation_error : 0.730036
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.06164 , 16.7294 , 5.44399]
+       - orientation : [-0.221584 , 0.0705095 , -0.264494 , 0.935934]
+  RingCirclePositionError : 0
+  position_error : 1.78654
+  orientation_error : 0.719791
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [2.93727 , 15.9547 , 5.18352]
+       - orientation : [-0.221513 , 0.071348 , -0.265806 , 0.935515]
+  RingCirclePositionError : 0
+  position_error : 0.974204
+  orientation_error : 0.722163
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [2.96876 , 16.142 , 5.2311]
+       - orientation : [-0.221897 , 0.0702819 , -0.260755 , 0.936925]
+  RingCirclePositionError : 0
+  position_error : 1.16558
+  orientation_error : 0.714138
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.06621 , 16.7294 , 5.42294]
+       - orientation : [-0.221401 , 0.0714576 , -0.267056 , 0.935177]
+  RingCirclePositionError : 0
+  position_error : 1.78164
+  orientation_error : 0.724074
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [2.94163 , 15.9548 , 5.16345]
+       - orientation : [-0.221338 , 0.0722628 , -0.268228 , 0.934795]
+  RingCirclePositionError : 0
+  position_error : 0.970399
+  orientation_error : 0.726231
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.04167 , 16.6572 , 5.33348]
+       - orientation : [-0.334585 , 0.0672137 , -0.269004 , 0.900651]
+  RingCirclePositionError : 0
+  position_error : 1.69092
+  orientation_error : 0.899063
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [2.97267 , 16.1342 , 5.2225]
+       - orientation : [-0.183449 , 0.0734159 , -0.26489 , 0.943817]
+  RingCirclePositionError : 0
+  position_error : 1.15614
+  orientation_error : 0.673602
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [2.94743 , 15.955 , 5.14625]
+       - orientation : [-0.22138 , 0.0725334 , -0.267842 , 0.934875]
+  RingCirclePositionError : 0
+  position_error : 0.967574
+  orientation_error : 0.725781
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [2.94116 , 15.94 , 5.1559]
+       - orientation : [-0.156484 , 0.074477 , -0.261898 , 0.949408]
+  RingCirclePositionError : 0
+  position_error : 0.95461
+  orientation_error : 0.638902
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.01581 , 16.3335 , 5.2505]
+       - orientation : [-0.221463 , 0.0724726 , -0.266787 , 0.935161]
+  RingCirclePositionError : 0
+  position_error : 1.35689
+  orientation_error : 0.724166
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.02089 , 16.3399 , 5.2809]
+       - orientation : [-0.155788 , 0.0758565 , -0.270607 , 0.946968]
+  RingCirclePositionError : 0
+  position_error : 1.36915
+  orientation_error : 0.654264
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.049 , 16.5295 , 5.30004]
+       - orientation : [-0.221396 , 0.0727562 , -0.267631 , 0.934914]
+  RingCirclePositionError : 0
+  position_error : 1.55939
+  orientation_error : 0.725559
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.22299 , 17.5628 , 5.59166]
+       - orientation : [-0.310574 , 0.0743636 , -0.283376 , 0.904274]
+  RingCirclePositionError : 0
+  position_error : 2.63963
+  orientation_error : 0.882239
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.28358 , 17.8764 , 5.68735]
+       - orientation : [-0.310319 , 0.075636 , -0.286511 , 0.903268]
+  RingCirclePositionError : 0
+  position_error : 2.97099
+  orientation_error : 0.886942
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.03234 , 16.3926 , 5.27358]
+       - orientation : [-0.120805 , 0.076381 , -0.259139 , 0.955206]
+  RingCirclePositionError : 0
+  position_error : 1.4196
+  orientation_error : 0.60088
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.2373 , 17.5705 , 5.58174]
+       - orientation : [-0.289289 , 0.0751493 , -0.282918 , 0.911385]
+  RingCirclePositionError : 0
+  position_error : 2.64619
+  orientation_error : 0.848321
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [5.48147 , 30.7833 , 9.93309]
+       - orientation : [-0.0914606 , 0.0791863 , -0.341779 , 0.931961]
+  RingCirclePositionError : 0
+  position_error : 16.7214
+  orientation_error : 0.742023
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [5.78912 , 32.6015 , 10.535]
+       - orientation : [-0.0734137 , 0.0790014 , -0.376259 , 0.920217]
+  RingCirclePositionError : 0
+  position_error : 18.6608
+  orientation_error : 0.804326
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.15033 , 34.7096 , 11.2156]
+       - orientation : [-0.0720293 , 0.0792861 , -0.393248 , 0.913171]
+  RingCirclePositionError : 0
+  position_error : 20.9052
+  orientation_error : 0.839596
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [5.17074 , 28.998 , 9.22703]
+       - orientation : [-0.359924 , 0.0927278 , -0.329572 , 0.867893]
+  RingCirclePositionError : 0
+  position_error : 14.7826
+  orientation_error : 1.0397
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.28119 , 35.2299 , 11.2735]
+       - orientation : [-0.289969 , 0.111243 , -0.392657 , 0.865658]
+  RingCirclePositionError : 0
+  position_error : 21.433
+  orientation_error : 1.04867
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.43376 , 36.205 , 11.6523]
+       - orientation : [-0.108012 , 0.0857463 , -0.407726 , 0.90263]
+  RingCirclePositionError : 0
+  position_error : 22.4876
+  orientation_error : 0.889911
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.51748 , 36.6066 , 11.7391]
+       - orientation : [-0.143469 , 0.0915841 , -0.407204 , 0.897337]
+  RingCirclePositionError : 0
+  position_error : 22.9049
+  orientation_error : 0.914196
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.43653 , 36.2376 , 11.5384]
+       - orientation : [-0.353675 , 0.115898 , -0.379843 , 0.846877]
+  RingCirclePositionError : 0
+  position_error : 22.4855
+  orientation_error : 1.12142
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [5.18483 , 28.8794 , 9.25888]
+       - orientation : [-0.0369569 , 0.0763057 , -0.343018 , 0.935495]
+  RingCirclePositionError : 0
+  position_error : 14.6816
+  orientation_error : 0.722279
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [12.8102 , 58.1769 , 19.8208]
+       - orientation : [-0.0452628 , 0.715187 , -0.368899 , 0.591923]
+  RingCirclePositionError : 0
+  position_error : 46.692
+  orientation_error : 1.87471
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.33647 , 41.3693 , 13.2941]
+       - orientation : [0.00954644 , 0.0643944 , -0.441172 , 0.895058]
+  RingCirclePositionError : 0
+  position_error : 27.981
+  orientation_error : 0.924469
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [4.35911 , 23.9129 , 7.67539]
+       - orientation : [0.00178246 , 0.075647 , -0.326609 , 0.942126]
+  RingCirclePositionError : 0
+  position_error : 9.40452
+  orientation_error : 0.683761
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.50972 , 36.5219 , 11.6874]
+       - orientation : [0.00630332 , 0.0694598 , -0.388476 , 0.918816]
+  RingCirclePositionError : 0
+  position_error : 22.8086
+  orientation_error : 0.811454
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.50911 , 36.5184 , 11.7028]
+       - orientation : [0.0073929 , 0.0680599 , -0.405086 , 0.911712]
+  RingCirclePositionError : 0
+  position_error : 22.8098
+  orientation_error : 0.84673
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.16469 , 34.499 , 11.0402]
+       - orientation : [0.00537356 , 0.0707108 , -0.374925 , 0.924339]
+  RingCirclePositionError : 0
+  position_error : 20.657
+  orientation_error : 0.782994
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:54:59Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [5.27108 , 28.0229 , 9.01342]
+       - orientation : [-0.276021 , 0.59213 , -0.485653 , 0.580806]
+  RingCirclePositionError : 0
+  position_error : 13.8153
+  orientation_error : 1.90216
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.54365 , 36.5273 , 11.6561]
+       - orientation : [0.00637547 , 0.0698523 , -0.388189 , 0.918907]
+  RingCirclePositionError : 0
+  position_error : 22.8098
+  orientation_error : 0.810993
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.1968 , 34.5045 , 10.9797]
+       - orientation : [0.00547814 , 0.0711563 , -0.374312 , 0.924553]
+  RingCirclePositionError : 0
+  position_error : 20.6495
+  orientation_error : 0.781873
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.96821 , 38.7993 , 12.381]
+       - orientation : [0.00970647 , 0.0654491 , -0.439344 , 0.895879]
+  RingCirclePositionError : 0
+  position_error : 25.2316
+  orientation_error : 0.920781
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.57631 , 36.5256 , 11.6227]
+       - orientation : [0.00866016 , 0.0673741 , -0.421078 , 0.904477]
+  RingCirclePositionError : 0
+  position_error : 22.8036
+  orientation_error : 0.881287
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.57702 , 36.5296 , 11.6075]
+       - orientation : [0.00759046 , 0.068887 , -0.404231 , 0.912028]
+  RingCirclePositionError : 0
+  position_error : 22.803
+  orientation_error : 0.84519
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.26812 , 40.3714 , 12.7977]
+       - orientation : [0.609735 , -0.209825 , 0.403733 , -0.648996]
+  RingCirclePositionError : 0
+  position_error : 26.8836
+  orientation_error : 1.72906
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.00524 , 38.8105 , 12.2969]
+       - orientation : [0.00874228 , 0.0676193 , -0.420639 , 0.904663]
+  RingCirclePositionError : 0
+  position_error : 25.2235
+  orientation_error : 0.880419
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.28608 , 40.3715 , 12.7635]
+       - orientation : [0.614488 , -0.194519 , 0.390081 , -0.657574]
+  RingCirclePositionError : 0
+  position_error : 26.8767
+  orientation_error : 1.7064
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.64339 , 36.5319 , 11.5753]
+       - orientation : [0.00987611 , 0.0664942 , -0.437655 , 0.896627]
+  RingCirclePositionError : 0
+  position_error : 22.8064
+  orientation_error : 0.91741
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.67055 , 36.6219 , 11.468]
+       - orientation : [-0.144812 , 0.0918376 , -0.389772 , 0.904806]
+  RingCirclePositionError : 0
+  position_error : 22.8651
+  orientation_error : 0.879747
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.11032 , 39.0045 , 12.2662]
+       - orientation : [-0.103871 , 0.0908034 , -0.447226 , 0.883716]
+  RingCirclePositionError : 0
+  position_error : 25.4148
+  orientation_error : 0.974105
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.0774 , 38.822 , 12.2305]
+       - orientation : [0.00891635 , 0.0683854 , -0.420107 , 0.90485]
+  RingCirclePositionError : 0
+  position_error : 25.2269
+  orientation_error : 0.879537
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.13686 , 39.0081 , 12.2301]
+       - orientation : [-0.104233 , 0.0908347 , -0.442611 , 0.885991]
+  RingCirclePositionError : 0
+  position_error : 25.4121
+  orientation_error : 0.964338
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.38816 , 40.6424 , 12.7867]
+       - orientation : [0.565477 , -0.194679 , 0.407053 , -0.690394]
+  RingCirclePositionError : 0
+  position_error : 27.1555
+  orientation_error : 1.61753
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.12101 , 44.4609 , 13.9483]
+       - orientation : [0.542071 , -0.221874 , 0.438698 , -0.681524]
+  RingCirclePositionError : 0
+  position_error : 31.2129
+  orientation_error : 1.64191
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.17643 , 39.0093 , 12.2118]
+       - orientation : [-0.102506 , 0.0922802 , -0.460103 , 0.877087]
+  RingCirclePositionError : 0
+  position_error : 25.4145
+  orientation_error : 1.00206
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.14868 , 38.8286 , 12.1801]
+       - orientation : [0.0102186 , 0.0673882 , -0.437793 , 0.896488]
+  RingCirclePositionError : 0
+  position_error : 25.2303
+  orientation_error : 0.918035
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.11873 , 38.6072 , 12.0549]
+       - orientation : [-0.0484065 , 0.0795594 , -0.43823 , 0.894026]
+  RingCirclePositionError : 0
+  position_error : 24.9807
+  orientation_error : 0.929089
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.33744 , 39.7647 , 12.3734]
+       - orientation : [-0.0843183 , 0.0860291 , -0.416912 , 0.900929]
+  RingCirclePositionError : 0
+  position_error : 26.2006
+  orientation_error : 0.89778
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.18659 , 38.8441 , 12.1148]
+       - orientation : [0.00800325 , 0.0711709 , -0.40135 , 0.91312]
+  RingCirclePositionError : 0
+  position_error : 25.2327
+  orientation_error : 0.839846
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.64444 , 41.4196 , 12.8991]
+       - orientation : [0.0104269 , 0.0675716 , -0.438298 , 0.896225]
+  RingCirclePositionError : 0
+  position_error : 27.9636
+  orientation_error : 0.919221
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.1568 , 44.2808 , 13.8131]
+       - orientation : [-0.499751 , 0.217455 , -0.452944 , 0.705552]
+  RingCirclePositionError : 0
+  position_error : 31.0101
+  orientation_error : 1.57519
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.12941 , 32.7314 , 10.1942]
+       - orientation : [0.00620905 , 0.0742978 , -0.374559 , 0.9242]
+  RingCirclePositionError : 0
+  position_error : 18.7397
+  orientation_error : 0.783719
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.8666 , 42.6678 , 13.2858]
+       - orientation : [-0.493331 , 0.190799 , -0.429587 , 0.731898]
+  RingCirclePositionError : 0
+  position_error : 29.289
+  orientation_error : 1.49939
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.15991 , 32.7365 , 10.1662]
+       - orientation : [0.00628118 , 0.0746968 , -0.374264 , 0.924288]
+  RingCirclePositionError : 0
+  position_error : 18.7419
+  orientation_error : 0.783263
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.72147 , 41.4318 , 12.8655]
+       - orientation : [0.0105767 , 0.0682695 , -0.438079 , 0.896278]
+  RingCirclePositionError : 0
+  position_error : 27.9785
+  orientation_error : 0.918984
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [4.77684 , 24.9095 , 7.71398]
+       - orientation : [0.00205647 , 0.0803103 , -0.318763 , 0.944424]
+  RingCirclePositionError : 0
+  position_error : 10.4269
+  orientation_error : 0.669919
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.75875 , 41.4312 , 12.8466]
+       - orientation : [0.0118393 , 0.0665523 , -0.457686 , 0.886541]
+  RingCirclePositionError : 0
+  position_error : 27.9789
+  orientation_error : 0.961966
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [5.38692 , 28.2899 , 8.77319]
+       - orientation : [0.00491862 , 0.0771134 , -0.355023 , 0.931659]
+  RingCirclePositionError : 0
+  position_error : 14.0198
+  orientation_error : 0.743689
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.33323 , 44.3917 , 13.7442]
+       - orientation : [0.0120545 , 0.0664248 , -0.460408 , 0.885136]
+  RingCirclePositionError : 0
+  position_error : 31.1252
+  orientation_error : 0.968018
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.54979 , 34.5596 , 10.6698]
+       - orientation : [0.00737559 , 0.0742374 , -0.386723 , 0.919173]
+  RingCirclePositionError : 0
+  position_error : 20.6719
+  orientation_error : 0.80964
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.37274 , 44.3887 , 13.7233]
+       - orientation : [0.0133204 , 0.0642472 , -0.482022 , 0.873699]
+  RingCirclePositionError : 0
+  position_error : 31.1232
+  orientation_error : 1.01608
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:00Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [5.21625 , 27.073 , 8.37155]
+       - orientation : [0.00429094 , 0.0787555 , -0.345542 , 0.935083]
+  RingCirclePositionError : 0
+  position_error : 12.7293
+  orientation_error : 0.724606
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.83595 , 41.4439 , 12.7757]
+       - orientation : [0.0120504 , 0.067295 , -0.457208 , 0.886728]
+  RingCirclePositionError : 0
+  position_error : 27.9844
+  orientation_error : 0.961155
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.61419 , 34.5702 , 10.6419]
+       - orientation : [0.00749173 , 0.0749767 , -0.386462 , 0.919222]
+  RingCirclePositionError : 0
+  position_error : 20.6854
+  orientation_error : 0.809392
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.61353 , 34.5667 , 10.6565]
+       - orientation : [0.00860602 , 0.0735715 , -0.402316 , 0.912499]
+  RingCirclePositionError : 0
+  position_error : 20.686
+  orientation_error : 0.842887
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.00713 , 37.1512 , 11.5025]
+       - orientation : [-0.414823 , 0.160054 , -0.422365 , 0.789881]
+  RingCirclePositionError : 0
+  position_error : 23.4311
+  orientation_error : 1.32036
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.64578 , 34.5722 , 10.627]
+       - orientation : [0.00869186 , 0.0739635 , -0.402038 , 0.912589]
+  RingCirclePositionError : 0
+  position_error : 20.6888
+  orientation_error : 0.842448
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.39951 , 39.0422 , 12.0726]
+       - orientation : [-0.401172 , 0.168637 , -0.440461 , 0.78525]
+  RingCirclePositionError : 0
+  position_error : 25.4441
+  orientation_error : 1.33539
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.67611 , 34.7551 , 10.7197]
+       - orientation : [0.617063 , -0.157722 , 0.35373 , -0.685006]
+  RingCirclePositionError : 0
+  position_error : 20.8925
+  orientation_error : 1.63237
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.67797 , 34.5773 , 10.6285]
+       - orientation : [0.00873465 , 0.0742996 , -0.402068 , 0.912548]
+  RingCirclePositionError : 0
+  position_error : 20.6997
+  orientation_error : 0.842647
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.05361 , 36.6076 , 11.2358]
+       - orientation : [0.00866607 , 0.074243 , -0.400959 , 0.913042]
+  RingCirclePositionError : 0
+  position_error : 22.8519
+  orientation_error : 0.840232
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.72633 , 34.6283 , 10.6676]
+       - orientation : [0.589832 , -0.17738 , 0.378254 , -0.691056]
+  RingCirclePositionError : 0
+  position_error : 20.7672
+  orientation_error : 1.61569
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.37312 , 32.7693 , 10.0434]
+       - orientation : [0.00781215 , 0.0761156 , -0.387743 , 0.918586]
+  RingCirclePositionError : 0
+  position_error : 18.7767
+  orientation_error : 0.812616
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.71025 , 34.5829 , 10.599]
+       - orientation : [0.00882122 , 0.0746919 , -0.401791 , 0.912638]
+  RingCirclePositionError : 0
+  position_error : 20.7028
+  orientation_error : 0.84221
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.0383 , 36.0511 , 11.0973]
+       - orientation : [0.568301 , -0.184885 , 0.391621 , -0.699631]
+  RingCirclePositionError : 0
+  position_error : 22.2853
+  orientation_error : 1.59183
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.06963 , 31.1369 , 9.54329]
+       - orientation : [0.00688301 , 0.0773586 , -0.375223 , 0.923675]
+  RingCirclePositionError : 0
+  position_error : 17.043
+  orientation_error : 0.786465
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.40365 , 32.7743 , 10.0449]
+       - orientation : [0.00785044 , 0.0764576 , -0.387771 , 0.918546]
+  RingCirclePositionError : 0
+  position_error : 18.7873
+  orientation_error : 0.81282
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.40423 , 32.7773 , 10.031]
+       - orientation : [0.00674843 , 0.0777416 , -0.37286 , 0.924601]
+  RingCirclePositionError : 0
+  position_error : 18.7864
+  orientation_error : 0.781621
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.7377 , 34.8573 , 10.7539]
+       - orientation : [-0.315737 , 0.140631 , -0.432079 , 0.832971]
+  RingCirclePositionError : 0
+  position_error : 21.0093
+  orientation_error : 1.17268
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.43428 , 32.7796 , 10.017]
+       - orientation : [0.00793209 , 0.0768547 , -0.387484 , 0.918633]
+  RingCirclePositionError : 0
+  position_error : 18.7904
+  orientation_error : 0.812379
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.35462 , 37.3544 , 11.464]
+       - orientation : [0.529683 , -0.170051 , 0.389028 , -0.734286]
+  RingCirclePositionError : 0
+  position_error : 23.6741
+  orientation_error : 1.49236
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.98397 , 35.3969 , 10.8917]
+       - orientation : [0.516206 , -0.170201 , 0.393838 , -0.741252]
+  RingCirclePositionError : 0
+  position_error : 21.6014
+  orientation_error : 1.47172
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.40552 , 37.337 , 11.4686]
+       - orientation : [0.518204 , -0.192735 , 0.416044 , -0.721959]
+  RingCirclePositionError : 0
+  position_error : 23.6684
+  orientation_error : 1.52833
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.46543 , 32.7876 , 10.0046]
+       - orientation : [0.00685751 , 0.0784909 , -0.372589 , 0.924646]
+  RingCirclePositionError : 0
+  position_error : 18.8004
+  orientation_error : 0.781385
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.85607 , 39.5361 , 12.1234]
+       - orientation : [0.509253 , -0.191872 , 0.418317 , -0.727226]
+  RingCirclePositionError : 0
+  position_error : 26.0066
+  orientation_error : 1.51305
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.46485 , 32.7846 , 10.0185]
+       - orientation : [0.00797063 , 0.0771966 , -0.387512 , 0.918592]
+  RingCirclePositionError : 0
+  position_error : 18.8011
+  orientation_error : 0.812586
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.49602 , 32.7926 , 10.0061]
+       - orientation : [0.00689099 , 0.0788387 , -0.372615 , 0.924605]
+  RingCirclePositionError : 0
+  position_error : 18.8112
+  orientation_error : 0.781596
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.49602 , 32.7926 , 10.0061]
+       - orientation : [0.00689099 , 0.0788387 , -0.372615 , 0.924605]
+  RingCirclePositionError : 0
+  position_error : 18.8112
+  orientation_error : 0.781596
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.60413 , 33.0979 , 10.1871]
+       - orientation : [-0.487925 , 0.145598 , -0.372755 , 0.775747]
+  RingCirclePositionError : 0
+  position_error : 19.1685
+  orientation_error : 1.3658
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.20807 , 40.8456 , 12.5273]
+       - orientation : [-0.472294 , 0.194276 , -0.435476 , 0.741321]
+  RingCirclePositionError : 0
+  position_error : 27.4186
+  orientation_error : 1.47152
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.52662 , 32.7977 , 10.0076]
+       - orientation : [0.0069245 , 0.0791864 , -0.372641 , 0.924565]
+  RingCirclePositionError : 0
+  position_error : 18.8221
+  orientation_error : 0.781808
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.54283 , 37.5504 , 11.5235]
+       - orientation : [-0.481654 , 0.167138 , -0.400511 , 0.761357]
+  RingCirclePositionError : 0
+  position_error : 23.9105
+  orientation_error : 1.41078
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:01Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.01311 , 39.6788 , 12.1623]
+       - orientation : [-0.474483 , 0.188346 , -0.427545 , 0.746054]
+  RingCirclePositionError : 0
+  position_error : 26.1815
+  orientation_error : 1.45736
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.55723 , 32.8028 , 10.0092]
+       - orientation : [0.00695804 , 0.079534 , -0.372667 , 0.924525]
+  RingCirclePositionError : 0
+  position_error : 18.8331
+  orientation_error : 0.78202
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.40511 , 36.552 , 11.2238]
+       - orientation : [-0.476825 , 0.1816 , -0.418939 , 0.751099]
+  RingCirclePositionError : 0
+  position_error : 22.8611
+  orientation_error : 1.44214
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.61636 , 38.0597 , 11.6948]
+       - orientation : [-0.202665 , 0.118965 , -0.440532 , 0.866433]
+  RingCirclePositionError : 0
+  position_error : 24.4516
+  orientation_error : 1.04557
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.53402 , 37.1159 , 11.3982]
+       - orientation : [-0.429658 , 0.159933 , -0.409117 , 0.788948]
+  RingCirclePositionError : 0
+  position_error : 23.4651
+  orientation_error : 1.3234
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.30925 , 40.8356 , 12.4836]
+       - orientation : [-0.474035 , 0.189713 , -0.428455 , 0.74547]
+  RingCirclePositionError : 0
+  position_error : 27.4166
+  orientation_error : 1.45911
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.61788 , 32.8099 , 10.0262]
+       - orientation : [0.00816376 , 0.078904 , -0.387654 , 0.918386]
+  RingCirclePositionError : 0
+  position_error : 18.8559
+  orientation_error : 0.81363
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.40529 , 36.7812 , 11.3095]
+       - orientation : [-0.1763 , 0.113369 , -0.440518 , 0.872932]
+  RingCirclePositionError : 0
+  position_error : 23.1006
+  orientation_error : 1.01923
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.6185 , 32.813 , 10.0123]
+       - orientation : [0.0070252 , 0.0802286 , -0.372719 , 0.924443]
+  RingCirclePositionError : 0
+  position_error : 18.8552
+  orientation_error : 0.782448
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.94453 , 34.4259 , 10.6038]
+       - orientation : [-0.165775 , 0.110399 , -0.436598 , 0.877333]
+  RingCirclePositionError : 0
+  position_error : 20.5993
+  orientation_error : 1.00104
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.64853 , 32.815 , 10.0278]
+       - orientation : [0.00820246 , 0.079245 , -0.387682 , 0.918344]
+  RingCirclePositionError : 0
+  position_error : 18.867
+  orientation_error : 0.813842
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [8.22879 , 40.4924 , 12.4075]
+       - orientation : [-0.13757 , 0.106694 , -0.44862 , 0.876602]
+  RingCirclePositionError : 0
+  position_error : 27.0569
+  orientation_error : 1.00408
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.67975 , 32.8229 , 10.045]
+       - orientation : [0.00704853 , 0.0808675 , -0.373093 , 0.924236]
+  RingCirclePositionError : 0
+  position_error : 18.8851
+  orientation_error : 0.783532
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.64962 , 32.3229 , 9.97362]
+       - orientation : [-0.375832 , 0.135912 , -0.388874 , 0.830094]
+  RingCirclePositionError : 0
+  position_error : 18.3886
+  orientation_error : 1.18304
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.98371 , 38.9704 , 11.9256]
+       - orientation : [0.0105432 , 0.0771649 , -0.417938 , 0.905131]
+  RingCirclePositionError : 0
+  position_error : 25.4436
+  orientation_error : 0.878217
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.06623 , 34.645 , 10.6023]
+       - orientation : [0.00810634 , 0.0798767 , -0.386221 , 0.918905]
+  RingCirclePositionError : 0
+  position_error : 20.829
+  orientation_error : 0.810999
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.70978 , 32.8249 , 10.0604]
+       - orientation : [0.00823484 , 0.0798692 , -0.388054 , 0.918132]
+  RingCirclePositionError : 0
+  position_error : 18.897
+  orientation_error : 0.81491
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.208 , 34.7152 , 10.7013]
+       - orientation : [-0.350447 , 0.132909 , -0.390563 , 0.840823]
+  RingCirclePositionError : 0
+  position_error : 20.9499
+  orientation_error : 1.14399
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.71043 , 32.8281 , 10.0465]
+       - orientation : [0.00708201 , 0.081214 , -0.373119 , 0.924195]
+  RingCirclePositionError : 0
+  position_error : 18.8965
+  orientation_error : 0.783748
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.57621 , 31.7465 , 9.81625]
+       - orientation : [-0.31926 , 0.12194 , -0.378023 , 0.860408]
+  RingCirclePositionError : 0
+  position_error : 17.7885
+  orientation_error : 1.06945
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.59325 , 31.7619 , 9.82808]
+       - orientation : [-0.330817 , 0.126913 , -0.385421 , 0.852]
+  RingCirclePositionError : 0
+  position_error : 17.8097
+  orientation_error : 1.10201
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.13164 , 34.659 , 10.6222]
+       - orientation : [0.00690799 , 0.0819182 , -0.370859 , 0.925043]
+  RingCirclePositionError : 0
+  position_error : 20.8604
+  orientation_error : 0.779293
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.77176 , 32.8381 , 10.0792]
+       - orientation : [0.00710461 , 0.0818508 , -0.373493 , 0.923987]
+  RingCirclePositionError : 0
+  position_error : 18.9268
+  orientation_error : 0.784834
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.77109 , 32.8349 , 10.0931]
+       - orientation : [0.0082666 , 0.0804917 , -0.388426 , 0.917921]
+  RingCirclePositionError : 0
+  position_error : 18.9273
+  orientation_error : 0.815978
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.16334 , 34.661 , 10.6385]
+       - orientation : [0.00817526 , 0.080842 , -0.386622 , 0.918652]
+  RingCirclePositionError : 0
+  position_error : 20.873
+  orientation_error : 0.812285
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [6.53609 , 31.2511 , 9.6831]
+       - orientation : [-0.291226 , 0.117172 , -0.374093 , 0.872647]
+  RingCirclePositionError : 0
+  position_error : 17.2781
+  orientation_error : 1.0204
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.63512 , 36.7031 , 11.2982]
+       - orientation : [0.00934683 , 0.0798836 , -0.401786 , 0.912195]
+  RingCirclePositionError : 0
+  position_error : 23.069
+  orientation_error : 0.844375
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [7.19568 , 34.6661 , 10.6714]
+       - orientation : [0.00816765 , 0.0811244 , -0.386966 , 0.918482]
+  RingCirclePositionError : 0
+  position_error : 20.8932
+  orientation_error : 0.813142
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.67609 , 18.2265 , 5.65066]
+       - orientation : [-0.0896773 , 0.0867651 , -0.279798 , 0.951915]
+  RingCirclePositionError : 0
+  position_error : 3.36022
+  orientation_error : 0.622736
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.68621 , 18.2766 , 5.66631]
+       - orientation : [-0.0864816 , 0.0868575 , -0.281362 , 0.951742]
+  RingCirclePositionError : 0
+  position_error : 3.41337
+  orientation_error : 0.623868
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.71626 , 18.413 , 5.71007]
+       - orientation : [-0.0692503 , 0.087135 , -0.287822 , 0.951194]
+  RingCirclePositionError : 0
+  position_error : 3.55889
+  orientation_error : 0.627427
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.20149 , 15.7807 , 4.95771]
+       - orientation : [-0.221804 , 0.0813525 , -0.267851 , 0.934045]
+  RingCirclePositionError : 0
+  position_error : 0.807403
+  orientation_error : 0.73044
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.41746 , 16.7204 , 5.25164]
+       - orientation : [-0.261825 , 0.0798896 , -0.267299 , 0.923914]
+  RingCirclePositionError : 0
+  position_error : 1.78808
+  orientation_error : 0.78522
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.5994 , 17.7781 , 5.5197]
+       - orientation : [-0.0679838 , 0.0871987 , -0.276797 , 0.954546]
+  RingCirclePositionError : 0
+  position_error : 2.88917
+  orientation_error : 0.605327
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:02Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.37752 , 16.5385 , 5.19557]
+       - orientation : [-0.221668 , 0.0823041 , -0.269765 , 0.933443]
+  RingCirclePositionError : 0
+  position_error : 1.59621
+  orientation_error : 0.733804
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:03Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.38198 , 16.5383 , 5.20452]
+       - orientation : [-0.221389 , 0.0830129 , -0.272994 , 0.932508]
+  RingCirclePositionError : 0
+  position_error : 1.59816
+  orientation_error : 0.739003
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-29T12:55:03Z
+  target_type : arrow
+  model_name : arrow
+  pose : 
+       - position : [3.23664 , 15.7965 , 4.97645]
+       - orientation : [-0.241544 , 0.0812664 , -0.26885 , 0.928855]
+  RingCirclePositionError : 0
+  position_error : 0.831252
+  orientation_error : 0.758971
+  found_in_gazebo : 1
+
